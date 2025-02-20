@@ -55,20 +55,25 @@ def main():
     for link in links:
         print(f"Scraping: {link}")
         table_data = scrape_table_data(link)
+        table_data = pd.DataFrame(table_data[3:],index=None)
+        link_name = link.rsplit("/",1)[1]
+        link_name = link_name.rsplit(".",1)[0]
+        csv_name = link_name + ".csv"
+        table_data.to_csv(csv_name, index=False)
+        print(table_data)
+    #     if table_data:
+    #         if headers is None:
+    #             headers = table_data[0]  # Assume first row as header
+    #         all_data.extend(table_data[1:])
         
-        if table_data:
-            if headers is None:
-                headers = table_data[0]  # Assume first row as header
-            all_data.extend(table_data[1:])
-        
-        time.sleep(1)  # Respectful delay to avoid being blocked
+    #     time.sleep(1)  # Respectful delay to avoid being blocked
     
-    if all_data:
-        df = pd.DataFrame(all_data, columns=headers)
-        df.to_csv("diesel_data.csv", index=False)
-        print("Data saved to diesel_data.csv")
-    else:
-        print("No data scraped.")
+    # if all_data:
+    #     df = pd.DataFrame(all_data, columns=headers)
+    #     df.to_csv("diesel_data.csv", index=False)
+    #     print("Data saved to diesel_data.csv")
+    # else:
+    #     print("No data scraped.")
 
 
 
