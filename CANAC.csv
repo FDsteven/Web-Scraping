@@ -1,241 +1,48 @@
-0,1,2,3,4
-Model,Road No.,Serial No.,Date,Notes
-"SW1200RS / SW1200 (GMDD)
-14 
-A1041
-1/57
-SW1200; scrapped; ex-CN 7031","14 
-A1041
-1/57
-SW1200; scrapped; ex-CN 7031","A1041
-1/57
-SW1200; scrapped; ex-CN 7031","1/57
-SW1200; scrapped; ex-CN 7031",SW1200; scrapped; ex-CN 7031
-"1206, 1236 & 1272 
-A747, 863, 1168
-3,6/56; 8/57
-Ex-CN 1577, 1236 & 1272","A747, 863, 1168
-3,6/56; 8/57
-Ex-CN 1577, 1236 & 1272","3,6/56; 8/57
-Ex-CN 1577, 1236 & 1272","Ex-CN 1577, 1236 & 1272",
-"1303, 08, 23 & 30 
-A1372, 1545, 60, 67
-5,7,10,11/58
-Ex-CN (same #s)","A1372, 1545, 60, 67
-5,7,10,11/58
-Ex-CN (same #s)","5,7,10,11/58
-Ex-CN (same #s)",Ex-CN (same #s),
-"1338, 41 & 44
-A1788, 91 & 94 
-5/59
-Ex-CN (same #s)","A1788, 91 & 94 
-5/59
-Ex-CN (same #s)","5/59
-Ex-CN (same #s)",Ex-CN (same #s),
-"1350, 52 & 53
-A1800, 02 & 03
-6/59
-Ex-CN (same #s)","A1800, 02 & 03
-6/59
-Ex-CN (same #s)","6/59
-Ex-CN (same #s)",Ex-CN (same #s),
-"1360, 61 & 77
-A1845, 46 & 62
-4,4,6/60
-Ex-CN (same #s)","A1845, 46 & 62
-4,4,6/60
-Ex-CN (same #s)","4,4,6/60
-Ex-CN (same #s)",Ex-CN (same #s),
-"1388, 89, 91 & 95
-A1873, 74 , 76 & 80
-7,7,7,8/60
-Ex-CN (same #s)","A1873, 74 , 76 & 80
-7,7,7,8/60
-Ex-CN (same #s)","7,7,7,8/60
-Ex-CN (same #s)",Ex-CN (same #s),
-"1513-1519
-25745-25751
-3/60
-SW1200; ex-Grand Trunk Western (same #s)","25745-25751
-3/60
-SW1200; ex-Grand Trunk Western (same #s)","3/60
-SW1200; ex-Grand Trunk Western (same #s)",SW1200; ex-Grand Trunk Western (same #s),
-GP16 (EMD),"1704
-12299
-12/50
-Ex-CSX 1704 < SBD 4604 < nee Clinchfield GP7 904","12299
-12/50
-Ex-CSX 1704 < SBD 4604 < nee Clinchfield GP7 904","12/50
-Ex-CSX 1704 < SBD 4604 < nee Clinchfield GP7 904",Ex-CSX 1704 < SBD 4604 < nee Clinchfield GP7 904
-"SW1200 (GMDD)
-7100 & 7101
-A868, 1361
-8/56, 2/58
-Ex-CN 7101 < CN 7300 & 7301 < nee CN 1241 & 1292","7100 & 7101
-A868, 1361
-8/56, 2/58
-Ex-CN 7101 < CN 7300 & 7301 < nee CN 1241 & 1292","A868, 1361
-8/56, 2/58
-Ex-CN 7101 < CN 7300 & 7301 < nee CN 1241 & 1292","8/56, 2/58
-Ex-CN 7101 < CN 7300 & 7301 < nee CN 1241 & 1292",Ex-CN 7101 < CN 7300 & 7301 < nee CN 1241 & 1292
-"7102 & 7103
-A857, 865
-5,7/56
-Ex-CN 7102 & 7103 < nee CN 1230 & 1238","A857, 865
-5,7/56
-Ex-CN 7102 & 7103 < nee CN 1230 & 1238","5,7/56
-Ex-CN 7102 & 7103 < nee CN 1230 & 1238",Ex-CN 7102 & 7103 < nee CN 1230 & 1238,
-"7104, 05 & 06
-A1020, 1025 & 1029
-12/56, 1/57
-Ex-CN 7104, 7105 & 7106 < nee CN 1248, 1253 & 1257","A1020, 1025 & 1029
-12/56, 1/57
-Ex-CN 7104, 7105 & 7106 < nee CN 1248, 1253 & 1257","12/56, 1/57
-Ex-CN 7104, 7105 & 7106 < nee CN 1248, 1253 & 1257","Ex-CN 7104, 7105 & 7106 < nee CN 1248, 1253 & 1257",
-"7107
-A864
-7/56
-Ex-CN 7107 < nee CN 1237","A864
-7/56
-Ex-CN 7107 < nee CN 1237","7/56
-Ex-CN 7107 < nee CN 1237",Ex-CN 7107 < nee CN 1237,
-"7302 07 & 08
-A1852, 82 & 58
-4,8,5/60
-Ex-CN 7302 07 & 08 < nee CN 1368, 1397, & 1373","A1852, 82 & 58
-4,8,5/60
-Ex-CN 7302 07 & 08 < nee CN 1368, 1397, & 1373","4,8,5/60
-Ex-CN 7302 07 & 08 < nee CN 1368, 1397, & 1373","Ex-CN 7302 07 & 08 < nee CN 1368, 1397, & 1373",
-"7310, 12 & 17
-A1167, 1171 & 1797
-8,8/56, 6/59,
-Ex-CN 7310, 7312 & 7317 < nee CN1271, 1275 & 1347","A1167, 1171 & 1797
-8,8/56, 6/59,
-Ex-CN 7310, 7312 & 7317 < nee CN1271, 1275 & 1347","8,8/56, 6/59,
-Ex-CN 7310, 7312 & 7317 < nee CN1271, 1275 & 1347","Ex-CN 7310, 7312 & 7317 < nee CN1271, 1275 & 1347",
-SW8,"7731
-15953
-3/52
-Ex-Cargill Grain < nee ACL 54","15953
-3/52
-Ex-Cargill Grain < nee ACL 54","3/52
-Ex-Cargill Grain < nee ACL 54",Ex-Cargill Grain < nee ACL 54
-"GP10 (EMD/GMDD)
-8302 & 8308
-22274, 18821
-12/58, 5/64
-Ex- PAL 8302 & 8308 < nee IG/IC GP9 9189 & 9024","8302 & 8308
-22274, 18821
-12/58, 5/64
-Ex- PAL 8302 & 8308 < nee IG/IC GP9 9189 & 9024","22274, 18821
-12/58, 5/64
-Ex- PAL 8302 & 8308 < nee IG/IC GP9 9189 & 9024","12/58, 5/64
-Ex- PAL 8302 & 8308 < nee IG/IC GP9 9189 & 9024",Ex- PAL 8302 & 8308 < nee IG/IC GP9 9189 & 9024
-"8335
-A730
-5/55
-GMDD-built; ex-PAL 8335 < nee QNSL GP9 141","A730
-5/55
-GMDD-built; ex-PAL 8335 < nee QNSL GP9 141","5/55
-GMDD-built; ex-PAL 8335 < nee QNSL GP9 141",GMDD-built; ex-PAL 8335 < nee QNSL GP9 141,
-"8348
-20821
-1/56
-Ex-PAL 8348 < nee IC GP9 9183","20821
-1/56
-Ex-PAL 8348 < nee IC GP9 9183","1/56
-Ex-PAL 8348 < nee IC GP9 9183",Ex-PAL 8348 < nee IC GP9 9183,
-"8355
-18807
-4/54
-Ex-PAL 8355 < nee ICG/IC GP9 9010","18807
-4/54
-Ex-PAL 8355 < nee ICG/IC GP9 9010","4/54
-Ex-PAL 8355 < nee ICG/IC GP9 9010",Ex-PAL 8355 < nee ICG/IC GP9 9010,
-"8370
-22342
-1/57
-Ex-PAL 8370 < nee ICG/IC 9219","22342
-1/57
-Ex-PAL 8370 < nee ICG/IC 9219","1/57
-Ex-PAL 8370 < nee ICG/IC 9219",Ex-PAL 8370 < nee ICG/IC 9219,
-"8464
-23864
-1/58
-Ex-PAL 8464 < IC 8464 < nee IC/ICG GP9 9364","23864
-1/58
-Ex-PAL 8464 < IC 8464 < nee IC/ICG GP9 9364","1/58
-Ex-PAL 8464 < IC 8464 < nee IC/ICG GP9 9364",Ex-PAL 8464 < IC 8464 < nee IC/ICG GP9 9364,
-"8601
-83179, 83175
-10/59
-Ex-PAL 8601 < PAL 8312 < IC 8391 < nee IC/ICG GP9 8970","83179, 83175
-10/59
-Ex-PAL 8601 < PAL 8312 < IC 8391 < nee IC/ICG GP9 8970","10/59
-Ex-PAL 8601 < PAL 8312 < IC 8391 < nee IC/ICG GP9 8970",Ex-PAL 8601 < PAL 8312 < IC 8391 < nee IC/ICG GP9 8970,
-"8604
-A933
-4/56
-GMDD-built; ex-PAL 8604 < PAL 8318 < IC 8274 < nee QNSL GP9 154","A933
-4/56
-GMDD-built; ex-PAL 8604 < PAL 8318 < IC 8274 < nee QNSL GP9 154","4/56
-GMDD-built; ex-PAL 8604 < PAL 8318 < IC 8274 < nee QNSL GP9 154",GMDD-built; ex-PAL 8604 < PAL 8318 < IC 8274 < nee QNSL GP9 154,
-"S13m (MLW)
-8700 & 8701
-83179, 83175
-10/59
-Ex-CN 8700 & 8701 < nee CN 8611 & 8607","8700 & 8701
-83179, 83175
-10/59
-Ex-CN 8700 & 8701 < nee CN 8611 & 8607","83179, 83175
-10/59
-Ex-CN 8700 & 8701 < nee CN 8611 & 8607","10/59
-Ex-CN 8700 & 8701 < nee CN 8611 & 8607",Ex-CN 8700 & 8701 < nee CN 8611 & 8607
-"8702 & 8703
---
-1959
-Scrapped; ex-CN 8702 & 8703","--
-1959
-Scrapped; ex-CN 8702 & 8703","1959
-Scrapped; ex-CN 8702 & 8703",Scrapped; ex-CN 8702 & 8703,
-"8704-8706
---, 83177, 82601
---, 10/59, 2/59
-Ex-CN --, 8705 & 8711 < nee S13 --, 8506 & 8514","--, 83177, 82601
---, 10/59, 2/59
-Ex-CN --, 8705 & 8711 < nee S13 --, 8506 & 8514","--, 10/59, 2/59
-Ex-CN --, 8705 & 8711 < nee S13 --, 8506 & 8514","Ex-CN --, 8705 & 8711 < nee S13 --, 8506 & 8514",
-"8708 & 8709
-82600, 82555
-2/59, 2/59
-Ex-CN 8708 & 8709 < nee CN S13 8513 & 8504","82600, 82555
-2/59, 2/59
-Ex-CN 8708 & 8709 < nee CN S13 8513 & 8504","2/59, 2/59
-Ex-CN 8708 & 8709 < nee CN S13 8513 & 8504",Ex-CN 8708 & 8709 < nee CN S13 8513 & 8504,
-"8711
-82553
-1/59
-Ex-CN 8711 < nee CN 8502","82553
-1/59
-Ex-CN 8711 < nee CN 8502","1/59
-Ex-CN 8711 < nee CN 8502",Ex-CN 8711 < nee CN 8502,
-"GP11 (EMD)
-8734
-23704
-10/57
-Ex-IC 8734 < IC 2000 < nee UP GP9 348","8734
-23704
-10/57
-Ex-IC 8734 < IC 2000 < nee UP GP9 348","23704
-10/57
-Ex-IC 8734 < IC 2000 < nee UP GP9 348","10/57
-Ex-IC 8734 < IC 2000 < nee UP GP9 348",Ex-IC 8734 < IC 2000 < nee UP GP9 348
-"NOTES:
-
-#14 and 7731 swapped engine numbers.
-
-
-
-
-Thanks to the following contributors/sources:  Canadian Trackside Guide 2007 (by Bytown 
-Railway Society); Extra 2200 South, LocoNotes, and Mark Rickert.",,,,
+Canac Leasing (CANX),,,0,1,2,3,4
+Road No,Model,Date,,,,,
+14,SW1200RS / SW1200,Jan-57,,,,,
+1206,SW1200RS / SW1200,Mar-56,,,,,
+1236,SW1200RS / SW1200,Jun-56,,,,,
+1272,SW1200RS / SW1200,Aug-57,,,,,
+1303,SW1200RS / SW1200,May-58,,,,,
+1308,SW1200RS / SW1200,Jul-58,,,,,
+1323,SW1200RS / SW1200,Oct-58,,,,,
+1330,SW1200RS / SW1200,Nov-58,,,,,
+"1338, 1341, 1344",SW1200RS / SW1200,May-59,,,,,
+"1350, 1352, 1353",SW1200RS / SW1200,Jun-59,,,,,
+"1360, 1361",SW1200RS / SW1200,Apr-60,,,,,
+1377,SW1200RS / SW1200,Jun-60,,,,,
+"1388, 1389, 1391",SW1200RS / SW1200,Jul-60,,,,,
+1395,SW1200RS / SW1200,Aug-60,,,,,
+1513-1519,SW1200RS / SW1200,Mar-60,,,,,
+1704,GP16,Dec-50,,,,,
+7100,SW1200,Aug-56,,,,,
+7101,SW1200,Feb-58,,,,,
+7102,SW1200,May-56,,,,,
+7103,SW1200,Jul-56,,,,,
+7104,SW1200,Dec-56,,,,,
+"7105, 7106",SW1200,Jan-57,,,,,
+7107,SW1200,Jul-56,,,,,
+7302,SW1200,Apr-60,,,,,
+7307,SW1200,Aug-60,,,,,
+7308,SW1200,May-60,,,,,
+"7310, 7312",SW1200,Aug-56,,,,,
+7317,SW1200,Jun-59,,,,,
+7731,SW8,Mar-52,,,,,
+8302,GP10,Dec-58,,,,,
+8308,GP10,May-64,,,,,
+8335,GP10,May-55,,,,,
+8348,GP10,Jan-56,,,,,
+8355,GP10,Apr-54,,,,,
+8370,GP10,Jan-57,,,,,
+8464,GP10,Jan-58,,,,,
+8601,GP10,Oct-59,,,,,
+8604,GP10,Apr-56,,,,,
+"8700, 8701",S13m,Oct-59,,,,,
+"8702, 8703",S13m,May-05,,,,,
+8704,S13m,,,,,,
+8705,S13m,Oct-59,,,,,
+8706,S13m,Feb-59,,,,,
+"8708, 8709",S13m,Feb-59,,,,,
+8711,S13m,Jan-59,,,,,
+8734,GP11,Oct-57,,,,,

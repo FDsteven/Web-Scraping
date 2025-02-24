@@ -1,21 +1,23 @@
-0,1,2,3,4
-Road No.,Model (Bldr),Serial No.,Date,Notes
-133,SW1200 (EMD),22272,4/57,Ex-Patapsco & Back Rivers 133
-250,B23-7 (GE),42072,9/78,Ex-NS 4052< Conrail 1959
-901,SW900m (EMD),26813,9/61,Ex-Conrail 8710 < nee Reading 1510
-1006,SW1 (EMD),11099,7/50,Ex-NS < Southern 072 < nee Georgia Florida 72
-1337,SW1200RS (GMDD),A1574,12/58,Ex-Ohio Central 1337 < nee Canadian National 1337
-1355,GP40 (EMD),31895,5/66,Ex-NS 1355 < nee N&W Hi short hood replaced with low hood from NYSW SD45 3612.
-"1602, 1605 & 1606",SD40 (EMD),"31921, 24 & 25",6/66,"Ex-NS 1602, 1605 & 1606 < nee N&W 1602, 1605 & 1606"
-1801 & 1803,GP7 (EMD),"15078, 15696","7,8/51",Ex-Alaska RR 1838 & 1826 < nee US Army (same nos.)
-1808 & 1809,GP7u (EMD),"15707, 15691","9,8/51",Ex-Alaska RR 1837 & 1821
-1927,U18B (GE),39392,1/73,Ex-CSXT 1927 < nee SCL 329
-2002 & 2005,GP38 (EMD),--,--,Ex-Reading & Northern/GTW/DT&I
-2111,SW1001 (EMD),73623-22,12/73,Ex-NS 9422 < Conrail 9422 < Reading 2622
-2205 & 2209,U23B (GE),"41585, 40120","5/55, 1/75",Ex-Providence & Worcester 2205 & 2209 < Conrail 2790 and L&N 2810
-2785 & 2786,U23B (GE),40106 & 07,11/74,Ex-CR 2785 & 2786 < nee LV 509 & 510
-3173,SD40 (EMD),5819-1,6/72,Ex-NS 3173 < nee Southern 3173
-7001,GP40X (EMD),766066-2,6/78,Ex-NS 7001 < Southern 7001
-7545,GP10 (EMD),23598,8/57,Ex-Conrail GP 10 7545 < PC 7465 < nee NYC GP9 6065
-7580,GP10 (EMD),"23598, 23328",6/57,Ex-Conrail GP 10 7580 < PC 7580 < nee PRR GP9 7128
-Additional information/updates provided by: Michael Richmond,,,,
+BDL Co. (BDLX),,,,
+Road No.,Model,Serial No.,Date,Notes
+133,SW1200,22272,Apr-57,Ex-Patapsco & Back Rivers 133
+250,B23-7,42072,Sep-78,Ex-NS 4052< Conrail 1959
+901,SW900m,26813,Sep-61,Ex-Conrail 8710 < nee Reading 1510
+1006,SW1,11099,Jul-50,Ex-NS < Southern 072 < nee Georgia Florida 72
+1337,SW1200RS,A1574,Dec-58,Ex-Ohio Central 1337 < nee Canadian National 1337
+1355,GP40,31895,May-66,Ex-NS 1355 < nee N&W Hi short hood replaced with low hood from NYSW SD45 3612.
+"1602, 1605 & 1606",SD40,"31921, 24 & 25",Jun-66,"Ex-NS 1602, 1605 & 1606 < nee N&W 1602, 1605 & 1606"
+1801,GP7,15078,Jul-51,Ex-Alaska RR 1838
+1803,GP7,15696,Aug-51,Ex-Alaska RR 1826 < nee US Army (same nos.)
+1808,GP7u,15707,Sep-51,Ex-Alaska RR 1837
+1809,GP7u,15691,Aug-51,Ex-Alaska RR 1821
+1927,U18B,39392,Jan-73,Ex-CSXT 1927 < nee SCL 329
+2002 & 2005,GP38,--,--,Ex-Reading & Northern/GTW/DT&I
+2111,SW1001,73623-22,Dec-73,Ex-NS 9422 < Conrail 9422 < Reading 2622
+2205,U23B,41585,May-55,Ex-Providence & Worcester 2205 & 2209 < Conrail 2790 and L&N 2810
+2209,U23B,"41585, 40120",Jan-75,Ex-Providence & Worcester 2205 & 2209 < Conrail 2790 and L&N 2810
+2785 & 2786,U23B,40106 & 07,Nov-74,Ex-CR 2785 & 2786 < nee LV 509 & 510
+3173,SD40,5819-1,Jun-72,Ex-NS 3173 < nee Southern 3173
+7001,GP40X,766066-2,Jun-78,Ex-NS 7001 < Southern 7001
+7545,GP10,23598,Aug-57,Ex-Conrail GP 10 7545 < PC 7465 < nee NYC GP9 6065
+7580,GP10,"23598, 23328",Jun-57,Ex-Conrail GP 10 7580 < PC 7580 < nee PRR GP9 7128
