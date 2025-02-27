@@ -1,56 +1,15 @@
-0,1,2,3,4
-Model (Bldr),Road No.,Bldr Nmbr,Bldr Date,Notes
-"SD60 (EMD)
-1001
-867164-1
-8/87
-Ex-PRLX 6000 < CEFX 6003 < nee SOO 6000","1001
-867164-1
-8/87
-Ex-PRLX 6000 < CEFX 6003 < nee SOO 6000","867164-1
-8/87
-Ex-PRLX 6000 < CEFX 6003 < nee SOO 6000","8/87
-Ex-PRLX 6000 < CEFX 6003 < nee SOO 6000",Ex-PRLX 6000 < CEFX 6003 < nee SOO 6000
-"1004
-867164-5
-8/87
-Ex-PRLX 6004 < CEFX 6007 < nee SOO 6004","867164-5
-8/87
-Ex-PRLX 6004 < CEFX 6007 < nee SOO 6004","8/87
-Ex-PRLX 6004 < CEFX 6007 < nee SOO 6004",Ex-PRLX 6004 < CEFX 6007 < nee SOO 6004,
-"1008
-867164-9
-8/87
-Ex-PRLX 6008 < CEFX 6008 < nee UP 6008 -- conflicts 6008 ??","867164-9
-8/87
-Ex-PRLX 6008 < CEFX 6008 < nee UP 6008 -- conflicts 6008 ??","8/87
-Ex-PRLX 6008 < CEFX 6008 < nee UP 6008 -- conflicts 6008 ??",Ex-PRLX 6008 < CEFX 6008 < nee UP 6008 -- conflicts 6008 ??,
-"1010
-867164-11
-8/87
-Ex-PRLX 6010 < CEFX 6020 < nee SOO 6020","867164-11
-8/87
-Ex-PRLX 6010 < CEFX 6020 < nee SOO 6020","8/87
-Ex-PRLX 6010 < CEFX 6020 < nee SOO 6020",Ex-PRLX 6010 < CEFX 6020 < nee SOO 6020,
-GP38-2 (EMD),5002,5809-3,1/72,Ex-PRLX 5002 < NS 5002 < nee Sou 5002 (hi-nose)
-5003,5809-4,1/72,Ex-PRLX 5003 < NS 5003 < nee Sou 5003 (hi-nose),
-5196,767011-25,10/76,Ex-PRLX 5196 < NS 5196 < nee Sou 5196,
-5227,767053-2,1/77,Ex-PRLX 5227 < NS 5227 < nee Sou 5227,
-SD60 (EMD),"6008
-867164-9
-8/87
-Ex-PRLX 6008 < CEFX 6018 < INDR 6018 < nee SOO 6018 -- conflicts 1008 ??","867164-9
-8/87
-Ex-PRLX 6008 < CEFX 6018 < INDR 6018 < nee SOO 6018 -- conflicts 1008 ??","8/87
-Ex-PRLX 6008 < CEFX 6018 < INDR 6018 < nee SOO 6018 -- conflicts 1008 ??",Ex-PRLX 6008 < CEFX 6018 < INDR 6018 < nee SOO 6018 -- conflicts 1008 ??
-SD60M (EMD),6768,--,--,Ex-PRLX 6768 < NS 6768 < nee CR xxxx
-6786,926330-10,3/93,Ex-PRLX 6786 < NS 6786 < nee CR 5539,
-6814,887033-8,12/89,Ex-PRLX 6814 < NS 6814 < BNSF 8107 < BNSF 9207 < nee BN 9207,
-"Additional sources: 
-
-
-
-John Friedmann
-Diesel Shop rosters
-
-Original upload: 1 January 2023",,,,
+Georgetown Railroad Equipment (GREX),,,,,,
+Road No.,Model,Date,,,,
+1001,SD60,Aug-87,,,,
+1004,SD60,Aug-87,,,,
+1008,SD60,Aug-87,,,,
+1010,SD60,Aug-87,,,,
+Sep-13,GP38-2,Jan-72,,,,
+5003,GP38-2,Jan-72,,,,
+5196,GP38-2,Oct-76,,,,
+5227,GP38-2,Jan-77,,,,
+6008,SD60,Aug-87,,,,
+6768,SD60M,,,,,
+6786,SD60M,Mar-93,,,,
+6814,SD60M,Dec-89,,,,
+,,,,,,

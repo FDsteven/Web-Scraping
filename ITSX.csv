@@ -1,22 +1,17 @@
-0,1,2,3,4
-Road No.,Model,Bldr Nmbr,Bldr Date,Notes
-201,GP38,33684,11/67,Ex-Chesapeake & Ohio 3853
-1600,GP7,17494,12/52,Ex-Clinchfield 914
-1601,GP7,14977,11/51,Ex-Atlantic Coast Line 233
-2839,SD45T-2,73630-12,1/74,Ex-UP 2839 < UP SD40T-2 4807 < SP 6830 < nee SP SD45T-2 9326
-2847,SD40T-2,72601-1,4/72,Ex-UP 2847 < UP SD40T-2 4815 < SP 6832 < nee SP SD45T-2 9209
-3312,SD40-2,767021-8,7/76,Ex-UP 3312 < nee UP 8042
-3446 & 3454,SW1500,"33202, 33210","9, 10/67",Ex-BNSF 3446 & 3447 < BN 300 & 308 < nee GN 200 & 208
-6211,SD40-2,73687-13,5/74,Ex-HLCX 6211 < DME 6384 < Soo 6384 < nee Milw 194
-6253,SD40-2,73748-5,2/74,Ex-UP 4143 < MP 3143 < nee C&EI 3143
-6775,SD40-2,766024-3,5/77,Ex-BNSF 6775 < nee BN 6775
-6995,SD40,A2321,10/68,Ex-BNSF 7335 < nee CN 5069
-7198,SD40-2,A3800,9/79,Ex-HLCX 7198 < nee BN 7198
-7807,SD40-2,766070-1,6/77,Ex-BN 7807 < nee Colorado & Southern 937
-7914,SD40-2,786173-87,6/79,Ex-BN 7914
-"The railroad works intermodal facilities, such as BNSF's Logistics Park in Edgerton, Kansas
-and Alliance Yard near Fort Worth in Haslet, Texas.
-
-Locomotive data provided by Michael Richmond.
-
-Reference sources: RRpicturesarchive.net",,,,
+InTerm Service (ITSX),,
+Road No.,Model,Date
+201,GP38,Nov-67
+1600,GP7,Dec-52
+1601,GP7,Nov-51
+2839,SD45T-2,Jan-74
+2847,SD40T-2,Apr-72
+3312,SD40-2,Jul-76
+3446 & 3454,SW1500,Sep-67
+6211,SD40-2,May-74
+6253,SD40-2,Feb-74
+6775,SD40-2,May-77
+6995,SD40,Oct-68
+7198,SD40-2,Sep-79
+7807,SD40-2,Jun-77
+7914,SD40-2,Jun-79
+,,

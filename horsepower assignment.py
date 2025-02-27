@@ -14,7 +14,7 @@ All_models.to_csv("Locomotive HP Reference.csv")
 file_name = "AEX.csv"
 raw_data = pd.read_csv(file_name)
 raw_data = raw_data[1:]
-df = raw_data.set_axis(['Road No.', 'Model', 'Builder No.', 'Build Date', 'Notes'], axis=1)
+df = raw_data.set_axis(['Road No.', 'Model', 'Build Date'], axis=1)
 df = df.reset_index()
 df['Horsepower'] = pd.DataFrame(np.zeros(shape=(len(df),1)), index=df.index)
 print(df)

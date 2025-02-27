@@ -1,23 +1,23 @@
-BDL Co. (BDLX),,,,
-Road No.,Model,Serial No.,Date,Notes
-133,SW1200,22272,Apr-57,Ex-Patapsco & Back Rivers 133
-250,B23-7,42072,Sep-78,Ex-NS 4052< Conrail 1959
-901,SW900m,26813,Sep-61,Ex-Conrail 8710 < nee Reading 1510
-1006,SW1,11099,Jul-50,Ex-NS < Southern 072 < nee Georgia Florida 72
-1337,SW1200RS,A1574,Dec-58,Ex-Ohio Central 1337 < nee Canadian National 1337
-1355,GP40,31895,May-66,Ex-NS 1355 < nee N&W Hi short hood replaced with low hood from NYSW SD45 3612.
-"1602, 1605 & 1606",SD40,"31921, 24 & 25",Jun-66,"Ex-NS 1602, 1605 & 1606 < nee N&W 1602, 1605 & 1606"
-1801,GP7,15078,Jul-51,Ex-Alaska RR 1838
-1803,GP7,15696,Aug-51,Ex-Alaska RR 1826 < nee US Army (same nos.)
-1808,GP7u,15707,Sep-51,Ex-Alaska RR 1837
-1809,GP7u,15691,Aug-51,Ex-Alaska RR 1821
-1927,U18B,39392,Jan-73,Ex-CSXT 1927 < nee SCL 329
-2002 & 2005,GP38,--,--,Ex-Reading & Northern/GTW/DT&I
-2111,SW1001,73623-22,Dec-73,Ex-NS 9422 < Conrail 9422 < Reading 2622
-2205,U23B,41585,May-55,Ex-Providence & Worcester 2205 & 2209 < Conrail 2790 and L&N 2810
-2209,U23B,"41585, 40120",Jan-75,Ex-Providence & Worcester 2205 & 2209 < Conrail 2790 and L&N 2810
-2785 & 2786,U23B,40106 & 07,Nov-74,Ex-CR 2785 & 2786 < nee LV 509 & 510
-3173,SD40,5819-1,Jun-72,Ex-NS 3173 < nee Southern 3173
-7001,GP40X,766066-2,Jun-78,Ex-NS 7001 < Southern 7001
-7545,GP10,23598,Aug-57,Ex-Conrail GP 10 7545 < PC 7465 < nee NYC GP9 6065
-7580,GP10,"23598, 23328",Jun-57,Ex-Conrail GP 10 7580 < PC 7580 < nee PRR GP9 7128
+BDL Co. (BDLX),,
+Road No.,Model,Date
+133,SW1200,Apr-57
+250,B23-7,Sep-78
+901,SW900m,Sep-61
+1006,SW1,Jul-50
+1337,SW1200RS,Dec-58
+1355,GP40,May-66
+"1602, 1605 & 1606",SD40,Jun-66
+1801,GP7,Jul-51
+1803,GP7,Aug-51
+1808,GP7u,Sep-51
+1809,GP7u,Aug-51
+1927,U18B,Jan-73
+2002 & 2005,GP38,--
+2111,SW1001,Dec-73
+2205,U23B,May-55
+2209,U23B,Jan-75
+2785 & 2786,U23B,Nov-74
+3173,SD40,Jun-72
+7001,GP40X,Jun-78
+7545,GP10,Aug-57
+7580,GP10,Jun-57
