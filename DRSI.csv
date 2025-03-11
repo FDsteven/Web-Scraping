@@ -1,14 +1,12 @@
-DOT Rail Services (DRSI),,,
-Road No.,Model (& Bldr),Date,
-1005,NW2u,Sep-48,
-1202,SW9,Jun-51,
-1203,SW1200,Mar-60,
-1204,SW1200,Feb-54,
-1206,SW9,Jun-51,
-1207,SW9,Jun-51,
-1208,SW9,Oct-51,
-1209,SW9,Oct-51,
-1210,SW1200,May-57,
-1221,SSB1200 (SW9u),May-53,
-1423,SW14,Sep-50,
-,,,
+Company,Abbr,Road No.,Model (& Bldr),Date
+DOT Rail Services,DRSI,1005,NW2u,Sep-48
+DOT Rail Services,DRSI,1202,SW9,Jun-51
+DOT Rail Services,DRSI,1203,SW1200,Mar-60
+DOT Rail Services,DRSI,1204,SW1200,Feb-54
+DOT Rail Services,DRSI,1206,SW9,Jun-51
+DOT Rail Services,DRSI,1207,SW9,Jun-51
+DOT Rail Services,DRSI,1208,SW9,Oct-51
+DOT Rail Services,DRSI,1209,SW9,Oct-51
+DOT Rail Services,DRSI,1210,SW1200,May-57
+DOT Rail Services,DRSI,1221,SSB1200 (SW9u),May-53
+DOT Rail Services,DRSI,1423,SW14,Sep-50

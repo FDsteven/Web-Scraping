@@ -1,79 +1,18 @@
-0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
-Road No.,Qty,Model,Notes,,,,,,,,,,,,,,,,,
-55,1,SW1500,Ex-Houston Belt & Termnial 55?,,,,,,,,,,,,,,,,,
-864 & 865,2,GP40,"Ex-Soo/Milw 2022 & 2030, nee-Milw 196 & 157",,,,,,,,,,,,,,,,,
-1013,1,MP15AC,"Ex-Georgetown RR 1013, nee-EMD demo 115",,,,,,,,,,,,,,,,,
-3000,1,SD40,"Ex-UP 3000, To NRE 3000",,,,,,,,,,,,,,,,,
-3013 & 3020,2,GP40,"Ex-BN 3013 & 3020, nee-CB&Q 183 & 620",,,,,,,,,,,,,,,,,
-3074,1,GP40,Ex-CR/PC/NYC 3074,,,,,,,,,,,,,,,,,
-3136 & 3144,2,SD45,Ex-NS/Southern,,,,,,,,,,,,,,,,,
-6400,1,SD45,"Ex-BN 6400, nee-NP 3600",,,,,,,,,,,,,,,,,
-6435,1,SD45,Ex-SP 8960,,,,,,,,,,,,,,,,,
-"6436, 6437 & 6445",3,SD45,"Ex-BN, nee-GN 406, 407, & 415",,,,,,,,,,,,,,,,,
-6457 & 6470,2,SD45,"Ex-BN, nee-CB&Q 516 & 529",,,,,,,,,,,,,,,,,
-"6493, 96, 97, 6503",4,SD45,Ex-BN,6510 & 6518,1,SD45,Ex-BN 6516 & 6519,6559,1,SD45,Ex-BN,6570,1,SD45,"Ex-BN(C&S) 6570, nee-BN(C&S) 868","6655, 81, 86, 89, 90, 92 94, & 95",8,SD45,"Ex-BN,  nee-SLSF 905, 933, 938, 941, 942, 944, 946, 947","NHL NOTES:
-
-NHL 864 to UP 864, rebuilt as GP38M-2 UP 25xx
-NHL 865 to UP 865, then to FEC 450
-
-NHL 1013 to UP 1329 then to HLCX 1000 then to UP 1488
-
-NHL 3013 to UP 885
-NHL 3074 to UP 872, rebuilt as GP38M-2 UP 2543
-
-NHL 6400 to Utah Ry 6400 to MKCX 9413
-NHL 6435 to MKCX 9526 to HLCX [7005] to WC 6637
-NHL 6445 to MRL 351
-NHL 6457 to C&NW 6576 to NREX 6576, rebuilt as SD40M-3 SP 8612 to UP 2688
-NHL 6470 to C&NW 6588
-NHL 6493, 6497 to MRL same #s
-NHL 6496 rebuilt as SD40M-3 SP 8620, to UP 2696
-NHL 6503 to NYSW 6503 re# 3620, to MRL 365 to IMRL 365
-NHL 6510 to MKCX 9530
-NHL 6518 to Utah Ry 6518
-NHL 6559 to GMSR 6559 to WC 6559 re# 6531
-NHL 6570 to MKCX 9527 to HLCX 6521
-NHL 6655 to GMSR 6655 to WC 6655
-NHL 6681 to MRL 906 re# 356
-NHL 6686 to MRL 907 re# 357 to IMRL 357
-NHL 6689 to MKCX 9532
-NHL 6690 to WC 6690 re# 6499
-NHL 6694 to MRL 908 re# 358, to IMRL 358
-
-
-Thanks to the following contributors/sources:   Joe Ferguson; John Hall, John Komanesky, Roger Rassche and Paul Wester (via Loco Notes)"
-6510 & 6518,1,SD45,Ex-BN 6516 & 6519,,,,,,,,,,,,,,,,,
-6559,1,SD45,Ex-BN,,,,,,,,,,,,,,,,,
-6570,1,SD45,"Ex-BN(C&S) 6570, nee-BN(C&S) 868",,,,,,,,,,,,,,,,,
-"6655, 81, 86, 89, 90, 92 94, & 95",8,SD45,"Ex-BN,  nee-SLSF 905, 933, 938, 941, 942, 944, 946, 947",,,,,,,,,,,,,,,,,
-"NHL NOTES:
-
-NHL 864 to UP 864, rebuilt as GP38M-2 UP 25xx
-NHL 865 to UP 865, then to FEC 450
-
-NHL 1013 to UP 1329 then to HLCX 1000 then to UP 1488
-
-NHL 3013 to UP 885
-NHL 3074 to UP 872, rebuilt as GP38M-2 UP 2543
-
-NHL 6400 to Utah Ry 6400 to MKCX 9413
-NHL 6435 to MKCX 9526 to HLCX [7005] to WC 6637
-NHL 6445 to MRL 351
-NHL 6457 to C&NW 6576 to NREX 6576, rebuilt as SD40M-3 SP 8612 to UP 2688
-NHL 6470 to C&NW 6588
-NHL 6493, 6497 to MRL same #s
-NHL 6496 rebuilt as SD40M-3 SP 8620, to UP 2696
-NHL 6503 to NYSW 6503 re# 3620, to MRL 365 to IMRL 365
-NHL 6510 to MKCX 9530
-NHL 6518 to Utah Ry 6518
-NHL 6559 to GMSR 6559 to WC 6559 re# 6531
-NHL 6570 to MKCX 9527 to HLCX 6521
-NHL 6655 to GMSR 6655 to WC 6655
-NHL 6681 to MRL 906 re# 356
-NHL 6686 to MRL 907 re# 357 to IMRL 357
-NHL 6689 to MKCX 9532
-NHL 6690 to WC 6690 re# 6499
-NHL 6694 to MRL 908 re# 358, to IMRL 358
-
-
-Thanks to the following contributors/sources:   Joe Ferguson; John Hall, John Komanesky, Roger Rassche and Paul Wester (via Loco Notes)",,,,,,,,,,,,,,,,,,,,
+Company,Abbr,Model,Road No.,Date,,,,,,,,,,,,,,,,
+National Helm Leasing,NHL,SW1500,55,,,,,,,,,,,,,,,,,
+National Helm Leasing,NHL,GP40,864 & 865,,,,,,,,,,,,,,,,,
+National Helm Leasing,NHL,MP15AC,1013,,,,,,,,,,,,,,,,,
+National Helm Leasing,NHL,SD40,3000,,,,,,,,,,,,,,,,,
+National Helm Leasing,NHL,GP40,3013 & 3020,,,,,,,,,,,,,,,,,
+National Helm Leasing,NHL,GP40,3074,,,,,,,,,,,,,,,,,
+National Helm Leasing,NHL,SD45,3136 & 3144,,,,,,,,,,,,,,,,,
+National Helm Leasing,NHL,SD45,6400,,,,,,,,,,,,,,,,,
+National Helm Leasing,NHL,SD45,6435,,,,,,,,,,,,,,,,,
+National Helm Leasing,NHL,SD45,"6436, 6437 & 6445",,,,,,,,,,,,,,,,,
+National Helm Leasing,NHL,SD45,6457 & 6470,,,,,,,,,,,,,,,,,
+National Helm Leasing,NHL,SD45,"6493, 96, 97, 6503",,,,,,,,,,,,,,,,,
+National Helm Leasing,NHL,SD45,6510 & 6518,,,,,,,,,,,,,,,,,
+National Helm Leasing,NHL,SD45,6559,,,,,,,,,,,,,,,,,
+National Helm Leasing,NHL,SD45,6570,,,,,,,,,,,,,,,,,
+National Helm Leasing,NHL,SD45,"6655, 81, 86, 89, 90, 92 94, & 95",,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,

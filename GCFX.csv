@@ -1,84 +1,83 @@
-Alstom Remanufacturered Locomotives (GCFX),,,,,,,,,,,
-Road No.,Model,Date,,,,,,,,,
-520 - 525,F59PH,Oct-88,,,,,,,,,
-526 - 535,F59PH,Nov-88,,,,,,,,,
-900-905,F40PH-2,Mar-85,,,,,,,,,
-906-911,F40PH-2,Apr-85,,,,,,,,,
-912-917,F40PH-2,May-85,,,,,,,,,
-918 & 919,F40PH-2,Dec-87,,,,,,,,,
-2201 & 2202,GP38-2,,,,,,,,,,
-2383 - 2389,GP38-2,,,,,,,,,,
-3000,SD40-2,Jun-70,,,,,,,,,
-3001 & 3002,SD40-2,May-70,,,,,,,,,
-3003 & 3004,SD40-2,May-69,,,,,,,,,
-3005 & 3006,SD40-2,Feb-70,,,,,,,,,
-3007 & 3011,SD40-2,Sep-66,,,,,,,,,
-3008 & 3016,SD40-2,Aug-70,,,,,,,,,
-3009 & 3010,SD40-2,Mar-70,,,,,,,,,
-3012 & 3014,SD40-2,Nov-70,,,,,,,,,
-3013 & 3015,SD40-2,Apr-69,,,,,,,,,
-3012 & 3014,SD40-2,Dec-70,,,,,,,,,
-3017-18 & 3022-23,SD40-2,Jan-71,,,,,,,,,
-"3019, 3024 & 3028-29",SD40-2,Feb-66,,,,,,,,,
-3021,SD40-2,Mar-80,,,,,,,,,
-3025,SD40-2,Mar-71,,,,,,,,,
-3030-3032,SD40-2,Dec-70,,,,,,,,,
-"3033, 35 & 37",SD40-2,Mar-66,,,,,,,,,
-"3034, 38 & 45",SD40-2,Feb-66,,,,,,,,,
-"3039, 40 & 41",SD40-2,May-67,,,,,,,,,
-3043 & 3046,SD40-2,May-70,,,,,,,,,
-"3042, 44 & 47",SD40-2,Feb-66,,,,,,,,,
-3048 & 3049,SD40-2,Jul-75,,,,,,,,,
-3080,SD40-2,Jun-80,,,,,,,,,
-3053 - 3072,SD40-2,,,,,,,,,,
-3073 - 3102,SD40-2,,,,,,,,,,
-3103 - 3152,SD40-2,,,,,,,,,,
-6000-6001,SD40-3,Dec-67,,,,,,,,,
-6002-6005,SD40-3,Sep-69,,,,,,,,,
-6006-6008,SD40-3,1970,,,,,,,,,
-6009-6011,SD40-3,Jun-68,,,,,,,,,
-6012 & 6018,SD40-3,Oct-67,,,,,,,,,
-6013-6016,SD40-3,May-68,,,,,,,,,
-"6017, 19 & 20",SD40-3,Feb-69,,,,,,,,,
-6021 & 6025,SD40-3,Nov-71,,,,,,,,,
-6022 & 6024,SD40-3,Feb-68,,,,,,,,,
-6023 & 26-28,SD40-3,1969,,,,,,,,,
-6031-32 & 34-35,SD40-3,May-71,,,,,,,,,
-"6033, 6036 & 6041",SD40-3,Dec-70,,,,,,,,,
-6037-6040,SD40-3,1970,,,,,,,,,
-"6042, 45 & 46",SD40-3,May-71,,,,,,,,,
-6043-6044,SD40-3,May-70,,,,,,,,,
-6045-6048,SD40-3,Aug-71,,,,,,,,,
-6049,SD40-3,1969,,,,,,,,,
-6050-6053,SD40-3,May-71,,,,,,,,,
-6054-6057,SD40-3,Sep-71,,,,,,,,,
-"6058, 6062 & 6064",SD40-3,Apr-69,,,,,,,,,
-6065 & 6069,SD40-3,Apr-71,,,,,,,,,
-6066-6068,SD40-3,Jan-70,,,,,,,,,
-6069 & 6072,SD40-3,Sep-70,,,,,,,,,
-6074 & 6076,SD40-3,Dec-69,,,,,,,,,
-6075 & 77-79,SD40-3,1971,,,,,,,,,
-6600 & 6601,SD40-2,Jul-70,,,,,,,,,
-6602-6605,SD40-2,May-69,,,,,,,,,
-6606-6608,SD40-2,Nov-69,,,,,,,,,
-6609-6611,SD40-2,Nov-70,,,,,,,,,
-6612-6616,SD40-2,Jul-69,,,,,,,,,
-6617-6620,SD40-2,Jul-71,,,,,,,,,
-6633 & 6634,SD40-2,Jun-71,,,,,,,,,
-6638 & 6639,SD40-2,Aug-71,,,,,,,,,
-6900 & 6901,SD40,Feb-69,,,,,,,,,
-6904 & 6905,SD40,Nov-67,,,,,,,,,
-7300 & 7301,SD40-2,May-71,,,,,,,,,
-7302-7304,SD40-2,,,,,,,,,,
-7305-7307,SD40-2,Feb-68,,,,,,,,,
-7308,SD40-2,Feb-70,,,,,,,,,
-7309-7311,SD40-2,Feb-71,,,,,,,,,
-7312-7314,SD40-2,Jun-68,,,,,,,,,
-7315 & 7316,SD40-2,May-69,,,,,,,,,
-7317-7319,SD40-2,Sep-67,,,,,,,,,
-7320-7321,SD40-2,Nov-69,,,,,,,,,
-7322-7327,SD40-2,Nov-67,,,,,,,,,
-7328-7333,SD40-2,May-68,,,,,,,,,
-7334-7336,SD40-2,Nov-68,,,,,,,,,
-7337-7339,SD40-2,Nov-71,,,,,,,,,
-8011-8013,GP40-2,1975,,,,,,,,,
+Company,Abbr,Road No.,Model,Date
+Alstom Remanufacturered Locomotives,GCFX,520 - 525,F59PH,Oct-88
+Alstom Remanufacturered Locomotives,GCFX,526 - 535,F59PH,Nov-88
+Alstom Remanufacturered Locomotives,GCFX,900-905,F40PH-2,Mar-85
+Alstom Remanufacturered Locomotives,GCFX,906-911,F40PH-2,Apr-85
+Alstom Remanufacturered Locomotives,GCFX,912-917,F40PH-2,May-85
+Alstom Remanufacturered Locomotives,GCFX,918 & 919,F40PH-2,Dec-87
+Alstom Remanufacturered Locomotives,GCFX,2201 & 2202,GP38-2,
+Alstom Remanufacturered Locomotives,GCFX,2383 - 2389,GP38-2,
+Alstom Remanufacturered Locomotives,GCFX,3000,SD40-2,Jun-70
+Alstom Remanufacturered Locomotives,GCFX,3001 & 3002,SD40-2,May-70
+Alstom Remanufacturered Locomotives,GCFX,3003 & 3004,SD40-2,May-69
+Alstom Remanufacturered Locomotives,GCFX,3005 & 3006,SD40-2,Feb-70
+Alstom Remanufacturered Locomotives,GCFX,3007 & 3011,SD40-2,Sep-66
+Alstom Remanufacturered Locomotives,GCFX,3008 & 3016,SD40-2,Aug-70
+Alstom Remanufacturered Locomotives,GCFX,3009 & 3010,SD40-2,Mar-70
+Alstom Remanufacturered Locomotives,GCFX,3012 & 3014,SD40-2,Nov-70
+Alstom Remanufacturered Locomotives,GCFX,3013 & 3015,SD40-2,Apr-69
+Alstom Remanufacturered Locomotives,GCFX,3012 & 3014,SD40-2,Dec-70
+Alstom Remanufacturered Locomotives,GCFX,3017-18 & 3022-23,SD40-2,Jan-71
+Alstom Remanufacturered Locomotives,GCFX,"3019, 3024 & 3028-29",SD40-2,Feb-66
+Alstom Remanufacturered Locomotives,GCFX,3021,SD40-2,Mar-80
+Alstom Remanufacturered Locomotives,GCFX,3025,SD40-2,Mar-71
+Alstom Remanufacturered Locomotives,GCFX,3030-3032,SD40-2,Dec-70
+Alstom Remanufacturered Locomotives,GCFX,"3033, 35 & 37",SD40-2,Mar-66
+Alstom Remanufacturered Locomotives,GCFX,"3034, 38 & 45",SD40-2,Feb-66
+Alstom Remanufacturered Locomotives,GCFX,"3039, 40 & 41",SD40-2,May-67
+Alstom Remanufacturered Locomotives,GCFX,3043 & 3046,SD40-2,May-70
+Alstom Remanufacturered Locomotives,GCFX,"3042, 44 & 47",SD40-2,Feb-66
+Alstom Remanufacturered Locomotives,GCFX,3048 & 3049,SD40-2,Jul-75
+Alstom Remanufacturered Locomotives,GCFX,3080,SD40-2,Jun-80
+Alstom Remanufacturered Locomotives,GCFX,3053 - 3072,SD40-2,
+Alstom Remanufacturered Locomotives,GCFX,3073 - 3102,SD40-2,
+Alstom Remanufacturered Locomotives,GCFX,3103 - 3152,SD40-2,
+Alstom Remanufacturered Locomotives,GCFX,6000-6001,SD40-3,Dec-67
+Alstom Remanufacturered Locomotives,GCFX,6002-6005,SD40-3,Sep-69
+Alstom Remanufacturered Locomotives,GCFX,6006-6008,SD40-3,1970
+Alstom Remanufacturered Locomotives,GCFX,6009-6011,SD40-3,Jun-68
+Alstom Remanufacturered Locomotives,GCFX,6012 & 6018,SD40-3,Oct-67
+Alstom Remanufacturered Locomotives,GCFX,6013-6016,SD40-3,May-68
+Alstom Remanufacturered Locomotives,GCFX,"6017, 19 & 20",SD40-3,Feb-69
+Alstom Remanufacturered Locomotives,GCFX,6021 & 6025,SD40-3,Nov-71
+Alstom Remanufacturered Locomotives,GCFX,6022 & 6024,SD40-3,Feb-68
+Alstom Remanufacturered Locomotives,GCFX,6023 & 26-28,SD40-3,1969
+Alstom Remanufacturered Locomotives,GCFX,6031-32 & 34-35,SD40-3,May-71
+Alstom Remanufacturered Locomotives,GCFX,"6033, 6036 & 6041",SD40-3,Dec-70
+Alstom Remanufacturered Locomotives,GCFX,6037-6040,SD40-3,1970
+Alstom Remanufacturered Locomotives,GCFX,"6042, 45 & 46",SD40-3,May-71
+Alstom Remanufacturered Locomotives,GCFX,6043-6044,SD40-3,May-70
+Alstom Remanufacturered Locomotives,GCFX,6045-6048,SD40-3,Aug-71
+Alstom Remanufacturered Locomotives,GCFX,6049,SD40-3,1969
+Alstom Remanufacturered Locomotives,GCFX,6050-6053,SD40-3,May-71
+Alstom Remanufacturered Locomotives,GCFX,6054-6057,SD40-3,Sep-71
+Alstom Remanufacturered Locomotives,GCFX,"6058, 6062 & 6064",SD40-3,Apr-69
+Alstom Remanufacturered Locomotives,GCFX,6065 & 6069,SD40-3,Apr-71
+Alstom Remanufacturered Locomotives,GCFX,6066-6068,SD40-3,Jan-70
+Alstom Remanufacturered Locomotives,GCFX,6069 & 6072,SD40-3,Sep-70
+Alstom Remanufacturered Locomotives,GCFX,6074 & 6076,SD40-3,Dec-69
+Alstom Remanufacturered Locomotives,GCFX,6075 & 77-79,SD40-3,1971
+Alstom Remanufacturered Locomotives,GCFX,6600 & 6601,SD40-2,Jul-70
+Alstom Remanufacturered Locomotives,GCFX,6602-6605,SD40-2,May-69
+Alstom Remanufacturered Locomotives,GCFX,6606-6608,SD40-2,Nov-69
+Alstom Remanufacturered Locomotives,GCFX,6609-6611,SD40-2,Nov-70
+Alstom Remanufacturered Locomotives,GCFX,6612-6616,SD40-2,Jul-69
+Alstom Remanufacturered Locomotives,GCFX,6617-6620,SD40-2,Jul-71
+Alstom Remanufacturered Locomotives,GCFX,6633 & 6634,SD40-2,Jun-71
+Alstom Remanufacturered Locomotives,GCFX,6638 & 6639,SD40-2,Aug-71
+Alstom Remanufacturered Locomotives,GCFX,6900 & 6901,SD40,Feb-69
+Alstom Remanufacturered Locomotives,GCFX,6904 & 6905,SD40,Nov-67
+Alstom Remanufacturered Locomotives,GCFX,7300 & 7301,SD40-2,May-71
+Alstom Remanufacturered Locomotives,GCFX,7302-7304,SD40-2,
+Alstom Remanufacturered Locomotives,GCFX,7305-7307,SD40-2,Feb-68
+Alstom Remanufacturered Locomotives,GCFX,7308,SD40-2,Feb-70
+Alstom Remanufacturered Locomotives,GCFX,7309-7311,SD40-2,Feb-71
+Alstom Remanufacturered Locomotives,GCFX,7312-7314,SD40-2,Jun-68
+Alstom Remanufacturered Locomotives,GCFX,7315 & 7316,SD40-2,May-69
+Alstom Remanufacturered Locomotives,GCFX,7317-7319,SD40-2,Sep-67
+Alstom Remanufacturered Locomotives,GCFX,7320-7321,SD40-2,Nov-69
+Alstom Remanufacturered Locomotives,GCFX,7322-7327,SD40-2,Nov-67
+Alstom Remanufacturered Locomotives,GCFX,7328-7333,SD40-2,May-68
+Alstom Remanufacturered Locomotives,GCFX,7334-7336,SD40-2,Nov-68
+Alstom Remanufacturered Locomotives,GCFX,7337-7339,SD40-2,Nov-71
+Alstom Remanufacturered Locomotives,GCFX,8011-8013,GP40-2,1975

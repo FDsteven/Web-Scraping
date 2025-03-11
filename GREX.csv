@@ -1,15 +1,13 @@
-Georgetown Railroad Equipment (GREX),,,,,,
-Road No.,Model,Date,,,,
-1001,SD60,Aug-87,,,,
-1004,SD60,Aug-87,,,,
-1008,SD60,Aug-87,,,,
-1010,SD60,Aug-87,,,,
-Sep-13,GP38-2,Jan-72,,,,
-5003,GP38-2,Jan-72,,,,
-5196,GP38-2,Oct-76,,,,
-5227,GP38-2,Jan-77,,,,
-6008,SD60,Aug-87,,,,
-6768,SD60M,,,,,
-6786,SD60M,Mar-93,,,,
-6814,SD60M,Dec-89,,,,
-,,,,,,
+Company,Abbr,Road No.,Model,Date
+Georgetown Railroad Equipment,GREX,1001,SD60,Aug-87
+Georgetown Railroad Equipment,GREX,1004,SD60,Aug-87
+Georgetown Railroad Equipment,GREX,1008,SD60,Aug-87
+Georgetown Railroad Equipment,GREX,1010,SD60,Aug-87
+Georgetown Railroad Equipment,GREX,13-Sep,GP38-2,Jan-72
+Georgetown Railroad Equipment,GREX,5003,GP38-2,Jan-72
+Georgetown Railroad Equipment,GREX,5196,GP38-2,Oct-76
+Georgetown Railroad Equipment,GREX,5227,GP38-2,Jan-77
+Georgetown Railroad Equipment,GREX,6008,SD60,Aug-87
+Georgetown Railroad Equipment,GREX,6768,SD60M,
+Georgetown Railroad Equipment,GREX,6786,SD60M,Mar-93
+Georgetown Railroad Equipment,GREX,6814,SD60M,Dec-89

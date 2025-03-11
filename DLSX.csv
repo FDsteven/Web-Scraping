@@ -1,9 +1,8 @@
-Diesel Supply Inc. _DLSX),,
-Road No.,Model,Date
-170,SD9,Apr-59
-189,SD-M,Apr-60
-1213,SW1200,Nov-54
-1254,SW10,Aug-50
-1801,SD18M,Jul-59
-2307,SW1500,Nov-68
-4605,GP9R,Mar-57
+Company,Abbr,Road No.,Model,Date
+Diesel Supply Inc.,DLSX,170,SD9,Apr-59
+Diesel Supply Inc.,DLSX,189,SD-M,Apr-60
+Diesel Supply Inc.,DLSX,1213,SW1200,Nov-54
+Diesel Supply Inc.,DLSX,1254,SW10,Aug-50
+Diesel Supply Inc.,DLSX,1801,SD18M,Jul-59
+Diesel Supply Inc.,DLSX,2307,SW1500,Nov-68
+Diesel Supply Inc.,DLSX,4605,GP9R,Mar-57

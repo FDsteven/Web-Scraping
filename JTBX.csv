@@ -1,5 +1,3 @@
-JTBX,,
-Road No.,Model ,Date
-84,SW1 (EMD),Jun-39
-814,SD-M (EMD),Apr-59
-,,
+Company,Abbr,Road No.,Model ,Date
+JTBX,JTBX,84,SW1 (EMD),Jun-39
+JTBX,JTBX,814,SD-M (EMD),Apr-59

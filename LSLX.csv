@@ -1,20 +1,16 @@
-0,1,2,3,4
-Road No.,Model (Bldr),Bldr (&Date),Serial Nmbr,Notes
-906,SW1200,EMD (3/1957),23080,Built as Alquippa & Southern 1213
-1309,GP9R,EMD (3/1955),A653,Built as CN GP9 1734
-1354,GP7,EMD (10/1950),13163,Built as ATSF 2659
-1502,MP15,EMD (5/1976),756119-5,Built as U.S.Steel 959
-1711,GP9R,EMD (2/1957),23130,Built as FEC 668
-1712,GP9R,EMD (2/1957),23134,Built as FEC 672
-2002,GP38AC,EMD (6/1971),37638,Built as L&N 4049
-Orange Port Terminal Rwy,,,,
-1,SW900,EMD (10/56),22874,Ex-GTW 7228
-14,NW2,EMD (7/1939),944,Ex-BN 14 < GN 117 < nee GN 5317
-51,GP7,EMD (9/51),14687,Ex-IN&OH 51< BN 1579 < nee CB&Q 223
-1315,GP7,EMD (10/50),13163,Ex-ATSF 2659
-2040 & 2041,SD40,EMD (9/65),"30709, 30706",Ex-C&O 7440 & 7443
-2220 & 2221,--,--,--,--
-2222,2GS14B,NRE (11/06),5089-1,Ex-NREX Demonstrator 2007
-2223 & 2224,--,--,--,--
-"Credits
-Thanks to the following contributors/sources: Jack Prange II",,,,
+Company,Abbr,Model,Road No.,Date
+Lone Star Leasing & Orange Port Terminal Rwy,LSLX,SW1200,906,Mar-57
+Lone Star Leasing & Orange Port Terminal Rwy,LSLX,GP9R,1309,Mar-55
+Lone Star Leasing & Orange Port Terminal Rwy,LSLX,GP7,1354,Oct-50
+Lone Star Leasing & Orange Port Terminal Rwy,LSLX,MP15,1502,May-76
+Lone Star Leasing & Orange Port Terminal Rwy,LSLX,GP9R,1711,Feb-57
+Lone Star Leasing & Orange Port Terminal Rwy,LSLX,GP9R,1712,Feb-57
+Lone Star Leasing & Orange Port Terminal Rwy,LSLX,GP38AC,2002,Jun-71
+Lone Star Leasing & Orange Port Terminal Rwy,LSLX,SW900,1,Oct-56
+Lone Star Leasing & Orange Port Terminal Rwy,LSLX,NW2,14,Jul-39
+Lone Star Leasing & Orange Port Terminal Rwy,LSLX,GP7,51,Sep-51
+Lone Star Leasing & Orange Port Terminal Rwy,LSLX,GP7,1315,Oct-50
+Lone Star Leasing & Orange Port Terminal Rwy,LSLX,SD40,2040 & 2041,Sep-65
+Lone Star Leasing & Orange Port Terminal Rwy,LSLX,,2220 & 2221,
+Lone Star Leasing & Orange Port Terminal Rwy,LSLX,2GS14B,2222,6-Nov
+Lone Star Leasing & Orange Port Terminal Rwy,LSLX,,2223 & 2224,

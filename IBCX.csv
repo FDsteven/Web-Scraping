@@ -1,53 +1,52 @@
-Indiana Box Corporation (IBCX),,
-Road No.,Model,Date
-18,GP18 ,Jan-60
-47,GP7 ,Apr-52
-77,GP7 ,Jun-54
-102,GP7 ,
-167,RS-1 ,Apr-50
-222,GP9 ,Jan-58
-352,RS-11 ,Jun-60
-442,RSD-15 ,Apr-60
-605,RS-11 ,Sep-56
-616,SD18 ,Apr-60
-752,GP7 ,Mar-51
-753,GP9 ,Sep-55
-804,SDM ,Apr-59
-809,SDM ,Apr-60
-811,SDM ,Apr-59
-813,SDM ,Aug-59
-CKIN 814,SDM ,
-CKIN 815,SDM ,
-CKIN 818,SDM ,
-"1050, 1061 & 1073",GP10 ,Jan-56
-1500,GP7 ,Aug-52
-CKIN 1706,GP16 ,Aug-51
-1855,GP16 ,
-CKIN 2003,GP20 ,Feb-62
-2028,C630,
-3103 & 3112,B23-7 ,Jan-78
-3118 & 3119,B23-7 ,Feb-78
-"3133, 3137 & 3139",B23-7 ,Aug-78
-3160 & 3162,B23-7 ,Sep-78
-3180 & 3182,B23-7 ,8-Oct
-3346,SD40-2 ,
-"3460, 3481 & 3492",SD40-2 ,
-4029,GP9R ,Sep-55
-4093 & 4098,B23-7R,
-4215,GP30,Aug-63
-CKIN 5093,GP38-2 ,Oct-73
-CKIN 5115,GP38-2 ,Jan-74
-CKIN 5152,GP38-2 ,Oct-74
-5806 & 5876,B36-7 ,Aug-85
-5913,GP9 ,Dec-54
-6009 & 6014,SD40A,
-CKIN 6321,SD40 ,1970
-CKIN 7042,GP9R ,Jul-57
-7043,C30-7 ,Sep-79
-7076,GP9R ,Nov-58
-7225,GP9 ,
-7309 & 7317,SD18 ,Jan-63
-7855,B30-7 ,Mar-79
-8281,GP7,
-CKIN 8314,GP10 ,Apr-54
-8952,SD45 ,Aug-74
+Company,Abbr,Road No.,Model,Date
+Indiana Box Corporation,IBCX,18,GP18 ,Jan-60
+Indiana Box Corporation,IBCX,47,GP7 ,Apr-52
+Indiana Box Corporation,IBCX,77,GP7 ,Jun-54
+Indiana Box Corporation,IBCX,102,GP7 ,
+Indiana Box Corporation,IBCX,167,RS-1 ,Apr-50
+Indiana Box Corporation,IBCX,222,GP9 ,Jan-58
+Indiana Box Corporation,IBCX,352,RS-11 ,Jun-60
+Indiana Box Corporation,IBCX,442,RSD-15 ,Apr-60
+Indiana Box Corporation,IBCX,605,RS-11 ,Sep-56
+Indiana Box Corporation,IBCX,616,SD18 ,Apr-60
+Indiana Box Corporation,IBCX,752,GP7 ,Mar-51
+Indiana Box Corporation,IBCX,753,GP9 ,Sep-55
+Indiana Box Corporation,IBCX,804,SDM ,Apr-59
+Indiana Box Corporation,IBCX,809,SDM ,Apr-60
+Indiana Box Corporation,IBCX,811,SDM ,Apr-59
+Indiana Box Corporation,IBCX,813,SDM ,Aug-59
+Indiana Box Corporation,IBCX,CKIN 814,SDM ,
+Indiana Box Corporation,IBCX,CKIN 815,SDM ,
+Indiana Box Corporation,IBCX,CKIN 818,SDM ,
+Indiana Box Corporation,IBCX,"1050, 1061 & 1073",GP10 ,Jan-56
+Indiana Box Corporation,IBCX,1500,GP7 ,Aug-52
+Indiana Box Corporation,IBCX,CKIN 1706,GP16 ,Aug-51
+Indiana Box Corporation,IBCX,1855,GP16 ,
+Indiana Box Corporation,IBCX,CKIN 2003,GP20 ,Feb-62
+Indiana Box Corporation,IBCX,2028,C630,
+Indiana Box Corporation,IBCX,3103 & 3112,B23-7 ,Jan-78
+Indiana Box Corporation,IBCX,3118 & 3119,B23-7 ,Feb-78
+Indiana Box Corporation,IBCX,"3133, 3137 & 3139",B23-7 ,Aug-78
+Indiana Box Corporation,IBCX,3160 & 3162,B23-7 ,Sep-78
+Indiana Box Corporation,IBCX,3180 & 3182,B23-7 ,8-Oct
+Indiana Box Corporation,IBCX,3346,SD40-2 ,
+Indiana Box Corporation,IBCX,"3460, 3481 & 3492",SD40-2 ,
+Indiana Box Corporation,IBCX,4029,GP9R ,Sep-55
+Indiana Box Corporation,IBCX,4093 & 4098,B23-7R,
+Indiana Box Corporation,IBCX,4215,GP30,Aug-63
+Indiana Box Corporation,IBCX,CKIN 5093,GP38-2 ,Oct-73
+Indiana Box Corporation,IBCX,CKIN 5115,GP38-2 ,Jan-74
+Indiana Box Corporation,IBCX,CKIN 5152,GP38-2 ,Oct-74
+Indiana Box Corporation,IBCX,5806 & 5876,B36-7 ,Aug-85
+Indiana Box Corporation,IBCX,5913,GP9 ,Dec-54
+Indiana Box Corporation,IBCX,6009 & 6014,SD40A,
+Indiana Box Corporation,IBCX,CKIN 6321,SD40 ,1970
+Indiana Box Corporation,IBCX,CKIN 7042,GP9R ,Jul-57
+Indiana Box Corporation,IBCX,7043,C30-7 ,Sep-79
+Indiana Box Corporation,IBCX,7076,GP9R ,Nov-58
+Indiana Box Corporation,IBCX,7225,GP9 ,
+Indiana Box Corporation,IBCX,7309 & 7317,SD18 ,Jan-63
+Indiana Box Corporation,IBCX,7855,B30-7 ,Mar-79
+Indiana Box Corporation,IBCX,8281,GP7,
+Indiana Box Corporation,IBCX,CKIN 8314,GP10 ,Apr-54
+Indiana Box Corporation,IBCX,8952,SD45 ,Aug-74

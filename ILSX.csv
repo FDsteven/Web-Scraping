@@ -1,95 +1,94 @@
-Independent Locomotive Service (ILSX),,
-Road No.,Model,Date
-9,SW1200,Feb-64
-10,SW9,Sep-61
-69,SW1,
-143,SW900,Aug-36
-201,SW1500,Oct-68
-302,GP7,Jun-53
-551,GP15-1,Jun-76
-607,GP15-1,Jul-97
-674,GP15-1,Feb-82
-716,GP15AC,Nov-82
-736,GP15AC,Dec-82
-738,GP15AC,Dec-82
-900,SW8,Dec-51
-901,SW8,Aug-51
-902,RS3m,Oct-50
-904(2nd),SW1,Sep-47
-905,SW1200,Jan-55
-906,TR2A,Dec-49
-"907, 908 & 910",TR4A,Sep-50
-909,SW8,Feb-51
-911,TR4B,Sep-50
-912,SW1,
-913 & 916,SW7,Sep-50
-914,SW1200,Jan-55
-915,SW1200,Feb-64
-917,SW7,Oct-51
-920,SW1,Dec-50
-921 & 928,SW1500,Jun-72
-924,SW1500,Apr-72
-927,SW1500,Apr-69
-929,SW1500,Apr-73
-930,SW1500,Apr-70
-931-932,SW1200RS,Dec-59
-934,SW1500,Mar-56
-935,MP15AC,Sep-75
-939,MP15AC,Feb-76
-942,MP15,
-943,SW1500,
-944,SW1500,Oct-68
-951,SW1500,Oct-68
-1009,NW2,Sep-48
-1303,SD40-2,Jan-66
-1304,GP15-1,
-1307,GP15-1,
-1312,GP38,Mar-69
-1318,GP9u,Feb-57
-1323,GP9,Jan-59
-1328,SD38-3,Apr-70
-1329 & 1230,SD40-2,Jul-76
-1338,SD40-2,Jan-70
-1339-1341,SD40-3,Jan-70
-1343,SD40-T2,Apr-78
-1344,SD40-2,Jan-80
-1346,GP38-2,Oct-69
-1349,GP9,Jan-54
-1350,SD40T-2,Jun-80
-1352,GP10,
-1354,GP11,Feb-51
-1355,GP11,Dec-54
-1359,SW1,May-49
-"1360, 1362 & 1363",GP5(GP9m),Jul-57
-1364 & 1366,SW1,May-40
-1365,GP9,Jul-59
-1367,SW7,Jul-50
-1368,GP10,Feb-50
-1369,GP9,Aug-57
-1370,SW8,Aug-51
-1371,SW1,Nov-50
-1372,NW2,Oct-48
-1373,SW7,Feb-50
-1374,SD9,Mar-58
-1378,SW1,Jul-53
-1379,GP7,Jan-58
-1380,GP9,Jan-58
-1381,GP7,Mar-50
-1382 & 1383,GP9,May-56
-1384,SD9,Sep-57
-1385,GP9u,May-56
-1386-1388,GP35,Jun-64
-1389 & 1390,GP39-2,Oct-78
-1391 & 1393,GP10,Mar-57
-1395-1396,GP10,Aug-55
-1398,GP10,Oct-53
-1401 & 1402,GP15-1,
-1907,GP9,Jul-57
-2117,SW1200,Sep-53
-"3133, 3137",SD40-3,Jul-69
-"3144, 3152",SD40-3,Apr-70
-3523,SW1200,Feb-59
-3636,SW1000,Dec-70
-4551,GP9,May-57
-5148,GP38-2,Oct-74
-8758,SW1,Jun-52
+Company,Abbr,Road No.,Model,Date
+Independent Locomotive Service,ILSX,9,SW1200,Feb-64
+Independent Locomotive Service,ILSX,10,SW9,Sep-61
+Independent Locomotive Service,ILSX,69,SW1,
+Independent Locomotive Service,ILSX,143,SW900,Aug-36
+Independent Locomotive Service,ILSX,201,SW1500,Oct-68
+Independent Locomotive Service,ILSX,302,GP7,Jun-53
+Independent Locomotive Service,ILSX,551,GP15-1,Jun-76
+Independent Locomotive Service,ILSX,607,GP15-1,Jul-97
+Independent Locomotive Service,ILSX,674,GP15-1,Feb-82
+Independent Locomotive Service,ILSX,716,GP15AC,Nov-82
+Independent Locomotive Service,ILSX,736,GP15AC,Dec-82
+Independent Locomotive Service,ILSX,738,GP15AC,Dec-82
+Independent Locomotive Service,ILSX,900,SW8,Dec-51
+Independent Locomotive Service,ILSX,901,SW8,Aug-51
+Independent Locomotive Service,ILSX,902,RS3m,Oct-50
+Independent Locomotive Service,ILSX,904(2nd),SW1,Sep-47
+Independent Locomotive Service,ILSX,905,SW1200,Jan-55
+Independent Locomotive Service,ILSX,906,TR2A,Dec-49
+Independent Locomotive Service,ILSX,"907, 908 & 910",TR4A,Sep-50
+Independent Locomotive Service,ILSX,909,SW8,Feb-51
+Independent Locomotive Service,ILSX,911,TR4B,Sep-50
+Independent Locomotive Service,ILSX,912,SW1,
+Independent Locomotive Service,ILSX,913 & 916,SW7,Sep-50
+Independent Locomotive Service,ILSX,914,SW1200,Jan-55
+Independent Locomotive Service,ILSX,915,SW1200,Feb-64
+Independent Locomotive Service,ILSX,917,SW7,Oct-51
+Independent Locomotive Service,ILSX,920,SW1,Dec-50
+Independent Locomotive Service,ILSX,921 & 928,SW1500,Jun-72
+Independent Locomotive Service,ILSX,924,SW1500,Apr-72
+Independent Locomotive Service,ILSX,927,SW1500,Apr-69
+Independent Locomotive Service,ILSX,929,SW1500,Apr-73
+Independent Locomotive Service,ILSX,930,SW1500,Apr-70
+Independent Locomotive Service,ILSX,931-932,SW1200RS,Dec-59
+Independent Locomotive Service,ILSX,934,SW1500,Mar-56
+Independent Locomotive Service,ILSX,935,MP15AC,Sep-75
+Independent Locomotive Service,ILSX,939,MP15AC,Feb-76
+Independent Locomotive Service,ILSX,942,MP15,
+Independent Locomotive Service,ILSX,943,SW1500,
+Independent Locomotive Service,ILSX,944,SW1500,Oct-68
+Independent Locomotive Service,ILSX,951,SW1500,Oct-68
+Independent Locomotive Service,ILSX,1009,NW2,Sep-48
+Independent Locomotive Service,ILSX,1303,SD40-2,Jan-66
+Independent Locomotive Service,ILSX,1304,GP15-1,
+Independent Locomotive Service,ILSX,1307,GP15-1,
+Independent Locomotive Service,ILSX,1312,GP38,Mar-69
+Independent Locomotive Service,ILSX,1318,GP9u,Feb-57
+Independent Locomotive Service,ILSX,1323,GP9,Jan-59
+Independent Locomotive Service,ILSX,1328,SD38-3,Apr-70
+Independent Locomotive Service,ILSX,1329 & 1230,SD40-2,Jul-76
+Independent Locomotive Service,ILSX,1338,SD40-2,Jan-70
+Independent Locomotive Service,ILSX,1339-1341,SD40-3,Jan-70
+Independent Locomotive Service,ILSX,1343,SD40-T2,Apr-78
+Independent Locomotive Service,ILSX,1344,SD40-2,Jan-80
+Independent Locomotive Service,ILSX,1346,GP38-2,Oct-69
+Independent Locomotive Service,ILSX,1349,GP9,Jan-54
+Independent Locomotive Service,ILSX,1350,SD40T-2,Jun-80
+Independent Locomotive Service,ILSX,1352,GP10,
+Independent Locomotive Service,ILSX,1354,GP11,Feb-51
+Independent Locomotive Service,ILSX,1355,GP11,Dec-54
+Independent Locomotive Service,ILSX,1359,SW1,May-49
+Independent Locomotive Service,ILSX,"1360, 1362 & 1363",GP5(GP9m),Jul-57
+Independent Locomotive Service,ILSX,1364 & 1366,SW1,May-40
+Independent Locomotive Service,ILSX,1365,GP9,Jul-59
+Independent Locomotive Service,ILSX,1367,SW7,Jul-50
+Independent Locomotive Service,ILSX,1368,GP10,Feb-50
+Independent Locomotive Service,ILSX,1369,GP9,Aug-57
+Independent Locomotive Service,ILSX,1370,SW8,Aug-51
+Independent Locomotive Service,ILSX,1371,SW1,Nov-50
+Independent Locomotive Service,ILSX,1372,NW2,Oct-48
+Independent Locomotive Service,ILSX,1373,SW7,Feb-50
+Independent Locomotive Service,ILSX,1374,SD9,Mar-58
+Independent Locomotive Service,ILSX,1378,SW1,Jul-53
+Independent Locomotive Service,ILSX,1379,GP7,Jan-58
+Independent Locomotive Service,ILSX,1380,GP9,Jan-58
+Independent Locomotive Service,ILSX,1381,GP7,Mar-50
+Independent Locomotive Service,ILSX,1382 & 1383,GP9,May-56
+Independent Locomotive Service,ILSX,1384,SD9,Sep-57
+Independent Locomotive Service,ILSX,1385,GP9u,May-56
+Independent Locomotive Service,ILSX,1386-1388,GP35,Jun-64
+Independent Locomotive Service,ILSX,1389 & 1390,GP39-2,Oct-78
+Independent Locomotive Service,ILSX,1391 & 1393,GP10,Mar-57
+Independent Locomotive Service,ILSX,1395-1396,GP10,Aug-55
+Independent Locomotive Service,ILSX,1398,GP10,Oct-53
+Independent Locomotive Service,ILSX,1401 & 1402,GP15-1,
+Independent Locomotive Service,ILSX,1907,GP9,Jul-57
+Independent Locomotive Service,ILSX,2117,SW1200,Sep-53
+Independent Locomotive Service,ILSX,"3133, 3137",SD40-3,Jul-69
+Independent Locomotive Service,ILSX,"3144, 3152",SD40-3,Apr-70
+Independent Locomotive Service,ILSX,3523,SW1200,Feb-59
+Independent Locomotive Service,ILSX,3636,SW1000,Dec-70
+Independent Locomotive Service,ILSX,4551,GP9,May-57
+Independent Locomotive Service,ILSX,5148,GP38-2,Oct-74
+Independent Locomotive Service,ILSX,8758,SW1,Jun-52

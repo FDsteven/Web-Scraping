@@ -1,17 +1,15 @@
-InTerm Service (ITSX),,
-Road No.,Model,Date
-201,GP38,Nov-67
-1600,GP7,Dec-52
-1601,GP7,Nov-51
-2839,SD45T-2,Jan-74
-2847,SD40T-2,Apr-72
-3312,SD40-2,Jul-76
-3446 & 3454,SW1500,Sep-67
-6211,SD40-2,May-74
-6253,SD40-2,Feb-74
-6775,SD40-2,May-77
-6995,SD40,Oct-68
-7198,SD40-2,Sep-79
-7807,SD40-2,Jun-77
-7914,SD40-2,Jun-79
-,,
+Company,Abbr,Road No.,Model,Date
+InTerm Service,ITSX,201,GP38,Nov-67
+InTerm Service,ITSX,1600,GP7,Dec-52
+InTerm Service,ITSX,1601,GP7,Nov-51
+InTerm Service,ITSX,2839,SD45T-2,Jan-74
+InTerm Service,ITSX,2847,SD40T-2,Apr-72
+InTerm Service,ITSX,3312,SD40-2,Jul-76
+InTerm Service,ITSX,3446 & 3454,SW1500,Sep-67
+InTerm Service,ITSX,6211,SD40-2,May-74
+InTerm Service,ITSX,6253,SD40-2,Feb-74
+InTerm Service,ITSX,6775,SD40-2,May-77
+InTerm Service,ITSX,6995,SD40,Oct-68
+InTerm Service,ITSX,7198,SD40-2,Sep-79
+InTerm Service,ITSX,7807,SD40-2,Jun-77
+InTerm Service,ITSX,7914,SD40-2,Jun-79
