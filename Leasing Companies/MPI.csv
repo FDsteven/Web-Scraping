@@ -1,60 +1,60 @@
-Company,Abbr,Model,Road No.,Date,,,,,,,
-MotivePower Industries,MPI,MP21B,MPEX 244,8-May,,,,,,,
-MotivePower Industries,MPI,MK5000C,SP 501-503,Aug-94,,,,,,,
-MotivePower Industries,MPI,MP1500D,MPEX 1501,Jul-56,,,,,,,
-MotivePower Industries,MPI,MP1500D,MPEX 1502 & 1503,Apr-54,,,,,,,
-MotivePower Industries,MPI,MP1500D,MPEX 1504 & 1505,Dec-55,,,,,,,
-MotivePower Industries,MPI,MP1500D,MPEX 1506,,,,,,,,
-MotivePower Industries,MPI,B23-7R,GE 2001 & 2002,Jul-89,,,,,,,
-MotivePower Industries,MPI,MP2000D,MPEX 2001,Aug-98,,,,,,,
-MotivePower Industries,MPI,MP2000D,MPEX 2002,May-98,,,,,,,
-MotivePower Industries,MPI,MP2000D,MPEX 2003,,,,,,,,
-MotivePower Industries,MPI,MP2000D,MPEX 2004 & 05,,,,,,,,
-MotivePower Industries,MPI,C30-7R,GE 3000-3002,May-89,,,,,,,
-MotivePower Industries,MPI,SD50-3,MPEX 5000,Oct-99,,,,,,,
-MotivePower Industries,MPI,TE50-4S,MKCX 5001,Sep-79,,,,,,,
-MotivePower Industries,MPI,MP2000C,MPEX 6201,Jan-65,,,,,,,
-MotivePower Industries,MPI,SW1m,MPEX 243,Oct-41,,,,,,,
-MotivePower Industries,MPI,S6,MKCX 319,Nov-56,,,,,,,
-MotivePower Industries,MPI,SD40,MKCX 628 & 636,Mar-71,,,,,,,
-MotivePower Industries,MPI,SD40u,MPEX 750-752,Jan-70,,,,,,,
-MotivePower Industries,MPI,SW1500,MPI 1513 & 1514,May-69,,,,,,,
-MotivePower Industries,MPI,GP38M-4,MPI 2001(1st),Feb-64,,,,,,,
-MotivePower Industries,MPI,GP40,MKCX 4301,1969,,,,,,,
-MotivePower Industries,MPI,GP40,MKCX 4302,Feb-70,,,,,,,
-MotivePower Industries,MPI,GP40,MKCX 4303,Mar-71,,,,,,,
-MotivePower Industries,MPI,GP40,MKCX 4304,Jun-66,,,,,,,
-MotivePower Industries,MPI,GP40,MKCX 4305,Aug-71,,,,,,,
-MotivePower Industries,MPI,SD45u,"MKCX 5348, 5349",Dec-66,,,,,,,
-MotivePower Industries,MPI,SD45u,"MKCX 5353, --, 5355",Dec-66,,,,,,,
-MotivePower Industries,MPI,SD45u,MKCX 5356-5358,Sep-66,,,,,,,
-MotivePower Industries,MPI,SD45u,"MKCX 5359, --, 5361",Jun-66,,,,,,,
-MotivePower Industries,MPI,SD45u,MPEX 5364,Nov-66,,,,,,,
-MotivePower Industries,MPI,SD45u,MKCX 5365-5367,Oct-66,,,,,,,
-MotivePower Industries,MPI,SD45u,MKCX 5368-5370,Sep-66,,,,,,,
-MotivePower Industries,MPI,SD45u,MKCX 5371-5373,Jun-70,,,,,,,
-MotivePower Industries,MPI,SD45u,MPEX 5374-5376,Jun-70,,,,,,,
-MotivePower Industries,MPI,SD45u,MPEX 5377,Jun-66,,,,,,,
-MotivePower Industries,MPI,C636,MKCX 5401 & 5402,Nov-68,,,,,,,
-MotivePower Industries,MPI,C636,MKCX 5403,Nov-68,,,,,,,
-MotivePower Industries,MPI,F45u,MKCX 5525-5527,Jun-68,,,,,,,
-MotivePower Industries,MPI,F45u,MKCX 5528 & 5529,Jun-68,,,,,,,
-MotivePower Industries,MPI,F45u,MKCX 5530 & 5531,Jun-68,,,,,,,
-MotivePower Industries,MPI,F45u,MKCX 5900 series,,,,,,,,
-MotivePower Industries,MPI,F45u,MKCX 5951 & 5954,Jun-68,,,,,,,
-MotivePower Industries,MPI,C425,MKCX 6101,Feb-65,,,,,,,
-MotivePower Industries,MPI,SD40M-2,MKCX 8301,Feb-71,,,,,,,
-MotivePower Industries,MPI,SD40,MKCX 8303,Sep-66,,,,,,,
-MotivePower Industries,MPI,SD40,MKCX 8402 & 8403,Aug-66,,,,,,,
-MotivePower Industries,MPI,SD40M-2,MPI 9000-9029,,,,,,,,
-MotivePower Industries,MPI,SD40M-2,MKCX 9030-9036,,,,,,,,
-MotivePower Industries,MPI,SD40M-2,MPI 9037-9057,,,,,,,,
-MotivePower Industries,MPI,SD40,MKCX 9401,Sep-71,,,,,,,
-MotivePower Industries,MPI,SD40,MKCX 9409 & 9410,Sep-71,,,,,,,
-MotivePower Industries,MPI,SD40,MKCX 9411,Sep-71,,,,,,,
-MotivePower Industries,MPI,SD45u,"MKCX 9502, 9504",Aug-70,,,,,,,
-MotivePower Industries,MPI,SD45u,MKCX 9532,Oct-69,,,,,,,
-MotivePower Industries,MPI,SD45u,MPEX 9535,Oct-66,,,,,,,
-MotivePower Industries,MPI,SD45u,MKCX 9536-9538,Oct-66,,,,,,,
-MotivePower Industries,MPI,SD45u,MKCX 9539-9541,Aug-66,,,,,,,
-MotivePower Industries,MPI,RP39-2C,"V04, V08 & V10",Sep-71,,,,,,,
+Company,Abbr,Model,Road No.,Date
+MotivePower Industries,MPI,MP21B,MPEX 244,8-May
+MotivePower Industries,MPI,MK5000C,SP 501-503,Aug-94
+MotivePower Industries,MPI,MP1500D,MPEX 1501,Jul-56
+MotivePower Industries,MPI,MP1500D,MPEX 1502 & 1503,Apr-54
+MotivePower Industries,MPI,MP1500D,MPEX 1504 & 1505,Dec-55
+MotivePower Industries,MPI,MP1500D,MPEX 1506,
+MotivePower Industries,MPI,B23-7R,GE 2001 & 2002,Jul-89
+MotivePower Industries,MPI,MP2000D,MPEX 2001,Aug-98
+MotivePower Industries,MPI,MP2000D,MPEX 2002,May-98
+MotivePower Industries,MPI,MP2000D,MPEX 2003,
+MotivePower Industries,MPI,MP2000D,MPEX 2004 & 05,
+MotivePower Industries,MPI,C30-7R,GE 3000-3002,May-89
+MotivePower Industries,MPI,SD50-3,MPEX 5000,Oct-99
+MotivePower Industries,MPI,TE50-4S,MKCX 5001,Sep-79
+MotivePower Industries,MPI,MP2000C,MPEX 6201,Jan-65
+MotivePower Industries,MPI,SW1m,MPEX 243,Oct-41
+MotivePower Industries,MPI,S6,MKCX 319,Nov-56
+MotivePower Industries,MPI,SD40,MKCX 628 & 636,Mar-71
+MotivePower Industries,MPI,SD40u,MPEX 750-752,Jan-70
+MotivePower Industries,MPI,SW1500,MPI 1513 & 1514,May-69
+MotivePower Industries,MPI,GP38M-4,MPI 2001(1st),Feb-64
+MotivePower Industries,MPI,GP40,MKCX 4301,1969
+MotivePower Industries,MPI,GP40,MKCX 4302,Feb-70
+MotivePower Industries,MPI,GP40,MKCX 4303,Mar-71
+MotivePower Industries,MPI,GP40,MKCX 4304,Jun-66
+MotivePower Industries,MPI,GP40,MKCX 4305,Aug-71
+MotivePower Industries,MPI,SD45u,"MKCX 5348, 5349",Dec-66
+MotivePower Industries,MPI,SD45u,"MKCX 5353, --, 5355",Dec-66
+MotivePower Industries,MPI,SD45u,MKCX 5356-5358,Sep-66
+MotivePower Industries,MPI,SD45u,"MKCX 5359, --, 5361",Jun-66
+MotivePower Industries,MPI,SD45u,MPEX 5364,Nov-66
+MotivePower Industries,MPI,SD45u,MKCX 5365-5367,Oct-66
+MotivePower Industries,MPI,SD45u,MKCX 5368-5370,Sep-66
+MotivePower Industries,MPI,SD45u,MKCX 5371-5373,Jun-70
+MotivePower Industries,MPI,SD45u,MPEX 5374-5376,Jun-70
+MotivePower Industries,MPI,SD45u,MPEX 5377,Jun-66
+MotivePower Industries,MPI,C636,MKCX 5401 & 5402,Nov-68
+MotivePower Industries,MPI,C636,MKCX 5403,Nov-68
+MotivePower Industries,MPI,F45u,MKCX 5525-5527,Jun-68
+MotivePower Industries,MPI,F45u,MKCX 5528 & 5529,Jun-68
+MotivePower Industries,MPI,F45u,MKCX 5530 & 5531,Jun-68
+MotivePower Industries,MPI,F45u,MKCX 5900 series,
+MotivePower Industries,MPI,F45u,MKCX 5951 & 5954,Jun-68
+MotivePower Industries,MPI,C425,MKCX 6101,Feb-65
+MotivePower Industries,MPI,SD40M-2,MKCX 8301,Feb-71
+MotivePower Industries,MPI,SD40,MKCX 8303,Sep-66
+MotivePower Industries,MPI,SD40,MKCX 8402 & 8403,Aug-66
+MotivePower Industries,MPI,SD40M-2,MPI 9000-9029,
+MotivePower Industries,MPI,SD40M-2,MKCX 9030-9036,
+MotivePower Industries,MPI,SD40M-2,MPI 9037-9057,
+MotivePower Industries,MPI,SD40,MKCX 9401,Sep-71
+MotivePower Industries,MPI,SD40,MKCX 9409 & 9410,Sep-71
+MotivePower Industries,MPI,SD40,MKCX 9411,Sep-71
+MotivePower Industries,MPI,SD45u,"MKCX 9502, 9504",Aug-70
+MotivePower Industries,MPI,SD45u,MKCX 9532,Oct-69
+MotivePower Industries,MPI,SD45u,MPEX 9535,Oct-66
+MotivePower Industries,MPI,SD45u,MKCX 9536-9538,Oct-66
+MotivePower Industries,MPI,SD45u,MKCX 9539-9541,Aug-66
+MotivePower Industries,MPI,RP39-2C,"V04, V08 & V10",Sep-71

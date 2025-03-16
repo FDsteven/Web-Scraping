@@ -1,91 +1,91 @@
-Company	Abbr	Model	Road No.	Date
-Rail Switching Services	RSSX	SW1500	1	
-Rail Switching Services	RSSX	SW1500	7 & 8	
-Rail Switching Services	RSSX	GP7	10 & 19	
-Rail Switching Services	RSSX	GP9	46	
-Rail Switching Services	RSSX	GP9	61	
-Rail Switching Services	RSSX	GP9	518	
-Rail Switching Services	RSSX	SW1200	101	
-Rail Switching Services	RSSX	TC10	102 & 103	
-Rail Switching Services	RSSX	SW1200	110	
-Rail Switching Services	RSSX	S2m	112	
-Rail Switching Services	RSSX	SW1200	129	
-Rail Switching Services	RSSX	NW2R / SW1200	168 & 169	
-Rail Switching Services	RSSX	SW14	201	
-Rail Switching Services	RSSX	SW900	203	
-Rail Switching Services	RSSX	SW1200	202 & 233	
-Rail Switching Services	RSSX	SW1200	326 & 353	
-Rail Switching Services	RSSX	SW9	402	
-Rail Switching Services	RSSX	GP10	"430, 436 & 473"	
-Rail Switching Services	RSSX	SW1200	501 & 502	
-Rail Switching Services	RSSX	GP9	"506, 576 & 577"	
-Rail Switching Services	RSSX	GP15N	541	Feb-82
-Rail Switching Services	RSSX	GP15-1	545 & 553	Jun-76
-Rail Switching Services	RSSX	GP15-1	636 & 685	Jun-76
-Rail Switching Services	RSSX	GP15-1	680	Feb-82
-Rail Switching Services	RSSX	GP15-1	694 & 698	Feb-82
-Rail Switching Services	RSSX	SW1 / SW1200	616 & 702	
-Rail Switching Services	RSSX	GP8/GP7	722 & 754	
-Rail Switching Services	RSSX	NW2	769	
-Rail Switching Services	RSSX	SW1200	802 & 803	
-Rail Switching Services	RSSX	SW1200	"900, 02, 04 & 05"	
-Rail Switching Services	RSSX	GP7	929	
-Rail Switching Services	RSSX	SW9		
-Rail Switching Services	RSSX	GP7	986	
-Rail Switching Services	RSSX	S6	1003 & 1008	
-Rail Switching Services	RSSX	GP10	1032	
-Rail Switching Services	RSSX	GP10	1037	
-Rail Switching Services	RSSX	GP10	1051	Mar-55
-Rail Switching Services	RSSX	GP10	1052	
-Rail Switching Services	RSSX	GP10	1062	
-Rail Switching Services	RSSX	GP10	1078	
-Rail Switching Services	RSSX	GP10	1081	
-Rail Switching Services	RSSX	GP10	1085	
-Rail Switching Services	RSSX	SW1	1150	
-Rail Switching Services	RSSX	SW1200 / SW1200S / SW7	"1205, 1219 & 1221"	
-Rail Switching Services	RSSX	NW2 / SW10 / NW2R	"1234, 1259 & 1320"	
-Rail Switching Services	RSSX	GP7u	1337	
-Rail Switching Services	RSSX	GP10	1414	
-Rail Switching Services	RSSX	GP10	1416	
-Rail Switching Services	RSSX	GP18	1493	Jun-60
-Rail Switching Services	RSSX	25-Tonner	1501	May-56
-Rail Switching Services	RSSX	SW1200	1503	
-Rail Switching Services	RSSX	GP7	1621	Mar-60
-Rail Switching Services	RSSX	GP18	1700	Mar-60
-Rail Switching Services	RSSX	CF7	1802	
-Rail Switching Services	RSSX	GP16 / GP7u (EMD)	1812	Jan-51
-Rail Switching Services	RSSX	GP16 / GP7u (EMD)	1814	
-Rail Switching Services	RSSX	SW1200	2120	Jan-55
-Rail Switching Services	RSSX	GP35	2235	May-64
-Rail Switching Services	RSSX	GP9	2266	
-Rail Switching Services	RSSX	SW1200 / SW9	2269	Feb-65
-Rail Switching Services	RSSX	SW1200 / SW9	2279	Dec-51
-Rail Switching Services	RSSX	NW2	2346	Jun-68
-Rail Switching Services	RSSX	SW1500	2451	Sep-67
-Rail Switching Services	RSSX	SW1500	2500	Jun-68
-Rail Switching Services	RSSX	SW1500	2519	Apr-69
-Rail Switching Services	RSSX	SW1200	3601	
-Rail Switching Services	RSSX	LEAF	3838	
-Rail Switching Services	RSSX	GP7R	4364	Oct-50
-Rail Switching Services	RSSX	GP7R	4367	Jun-50
-Rail Switching Services	RSSX	GP7R	4443	Oct-51
-Rail Switching Services	RSSX	GP7R	4451	Nov-51
-Rail Switching Services	RSSX	SW1200	5606	Nov-71
-Rail Switching Services	RSSX	CF7	7009	
-Rail Switching Services	RSSX	CF7	7011	
-Rail Switching Services	RSSX	SW9	7015 & 7016	Jan-53
-Rail Switching Services	RSSX	GP8/GP9u/GP10	7983 & 7984	Sep-56
-Rail Switching Services	RSSX	GP8/GP9u/GP10	8203	
-Rail Switching Services	RSSX	GP8/GP9u/GP10	8209	
-Rail Switching Services	RSSX	GP8/GP9u/GP10	8215	Sep-56
-Rail Switching Services	RSSX	GP8/GP9u/GP10	8234	
-Rail Switching Services	RSSX	GP8/GP9u/GP10	8321	Dec-56
-Rail Switching Services	RSSX	GP8/GP9u/GP10	8358	Dec-56
-Rail Switching Services	RSSX	SW9	8939	
-Rail Switching Services	RSSX	SW9	8950	Feb-52
-Rail Switching Services	RSSX	SW9	8951	
-Rail Switching Services	RSSX	SW9	8959	Dec-51
-Rail Switching Services	RSSX	SW9	8999	Jan-53
-Rail Switching Services	RSSX	SW9	9022	
-Rail Switching Services	RSSX	SW9	9025	Jun-53
-Rail Switching Services	RSSX	SW1200	9324	May-57
+Company,Abbr,Model,Road No.,Date
+Rail Switching Services,RSSX,SW1500,1,
+Rail Switching Services,RSSX,SW1500,7 & 8,
+Rail Switching Services,RSSX,GP7,10 & 19,
+Rail Switching Services,RSSX,GP9,46,
+Rail Switching Services,RSSX,GP9,61,
+Rail Switching Services,RSSX,GP9,--,
+Rail Switching Services,RSSX,SW1200,101,
+Rail Switching Services,RSSX,TC10,102 & 103,
+Rail Switching Services,RSSX,SW1200,110,
+Rail Switching Services,RSSX,S2m,112,
+Rail Switching Services,RSSX,SW1200,129,
+Rail Switching Services,RSSX,NW2R / SW1200,168 & 169,
+Rail Switching Services,RSSX,SW14,201,
+Rail Switching Services,RSSX,SW900,203,
+Rail Switching Services,RSSX,SW1200,202 & 233,
+Rail Switching Services,RSSX,SW1200,326 & 353,
+Rail Switching Services,RSSX,SW9,402,
+Rail Switching Services,RSSX,GP10,"430, 436 & 473",
+Rail Switching Services,RSSX,SW1200,501 & 502,
+Rail Switching Services,RSSX,GP9,"506, 576 & 577",
+Rail Switching Services,RSSX,GP15N,541,Feb-82
+Rail Switching Services,RSSX,GP15-1,545 & 553,Jun-76
+Rail Switching Services,RSSX,GP15-1,636 & 685,Jun-76
+Rail Switching Services,RSSX,GP15-1,680,Feb-82
+Rail Switching Services,RSSX,GP15-1,694 & 698,Feb-82
+Rail Switching Services,RSSX,SW1 / SW1200,616 & 702,
+Rail Switching Services,RSSX,GP8/GP7,722 & 754,
+Rail Switching Services,RSSX,NW2,769,
+Rail Switching Services,RSSX,SW1200,802 & 803,
+Rail Switching Services,RSSX,SW1200,"900, 02, 04 & 05",
+Rail Switching Services,RSSX,GP7,929,
+Rail Switching Services,RSSX,SW9,--,
+Rail Switching Services,RSSX,GP7,986,
+Rail Switching Services,RSSX,S6,1003 & 1008,
+Rail Switching Services,RSSX,GP10,1032,
+Rail Switching Services,RSSX,GP10,1037,
+Rail Switching Services,RSSX,GP10,1051,Mar-55
+Rail Switching Services,RSSX,GP10,1052,
+Rail Switching Services,RSSX,GP10,1062,
+Rail Switching Services,RSSX,GP10,1078,
+Rail Switching Services,RSSX,GP10,1081,
+Rail Switching Services,RSSX,GP10,1085,
+Rail Switching Services,RSSX,SW1,1150,
+Rail Switching Services,RSSX,SW1200 / SW1200S / SW7,"1205, 1219 & 1221",
+Rail Switching Services,RSSX,NW2/SW10,"1234, 1259 & 1320",
+Rail Switching Services,RSSX,GP7u,1337,
+Rail Switching Services,RSSX,GP10,1414,
+Rail Switching Services,RSSX,GP10,1416,
+Rail Switching Services,RSSX,GP18,1493,Jun-60
+Rail Switching Services,RSSX,25-Tonner,1501,May-56
+Rail Switching Services,RSSX,SW1200,1503,
+Rail Switching Services,RSSX,GP7,1621,Mar-60
+Rail Switching Services,RSSX,GP18,1700,Mar-60
+Rail Switching Services,RSSX,CF7,1802,
+Rail Switching Services,RSSX,GP16 / GP7u,4-Dec,Jan-51
+Rail Switching Services,RSSX,GP16 / GP7u,1814,
+Rail Switching Services,RSSX,SW1200,2120,Jan-55
+Rail Switching Services,RSSX,GP35,2235,May-64
+Rail Switching Services,RSSX,GP9,2266,
+Rail Switching Services,RSSX,SW1200 / SW9,2269,Feb-65
+Rail Switching Services,RSSX,SW1200 / SW9,2279,Dec-51
+Rail Switching Services,RSSX,NW2,2346,Jun-68
+Rail Switching Services,RSSX,SW1500,2451,Sep-67
+Rail Switching Services,RSSX,SW1500,2500,Jun-68
+Rail Switching Services,RSSX,SW1500,2519,Apr-69
+Rail Switching Services,RSSX,SW1200,3601,
+Rail Switching Services,RSSX,LEAF,3838,
+Rail Switching Services,RSSX,GP7R,4364,Oct-50
+Rail Switching Services,RSSX,GP7R,4367,Jun-50
+Rail Switching Services,RSSX,GP7R,4443,Oct-51
+Rail Switching Services,RSSX,GP7R,4451,Nov-51
+Rail Switching Services,RSSX,SW1200,5606,Nov-71
+Rail Switching Services,RSSX,CF7,7009,
+Rail Switching Services,RSSX,CF7,7011,
+Rail Switching Services,RSSX,SW9,7015 & 7016,Jan-53
+Rail Switching Services,RSSX,GP8/GP9u/GP10,7983 & 7984,Sep-56
+Rail Switching Services,RSSX,GP8/GP9u/GP10,8203,
+Rail Switching Services,RSSX,GP8/GP9u/GP10,8209,
+Rail Switching Services,RSSX,GP8/GP9u/GP10,8215,Sep-56
+Rail Switching Services,RSSX,GP8/GP9u/GP10,8234,
+Rail Switching Services,RSSX,GP8/GP9u/GP10,8321,Dec-56
+Rail Switching Services,RSSX,GP8/GP9u/GP10,8358,Dec-56
+Rail Switching Services,RSSX,SW9,8939,
+Rail Switching Services,RSSX,SW9,8950,Feb-52
+Rail Switching Services,RSSX,SW9,8951,
+Rail Switching Services,RSSX,SW9,8959,Dec-51
+Rail Switching Services,RSSX,SW9,8999,Jan-53
+Rail Switching Services,RSSX,SW9,9022,
+Rail Switching Services,RSSX,SW9,9025,Jun-53
+Rail Switching Services,RSSX,SW1200,9324,May-57

@@ -1,26 +1,26 @@
-Company	Abbr	Model	Road No.	Date
-Midwest Locomotive Leasing	MWLX	SW1	MWLX 4	
-Midwest Locomotive Leasing	MWLX	SW1500	MWLX 13	Mar-70
-Midwest Locomotive Leasing	MWLX	GP38-2	MWLX 84	Sep-75
-Midwest Locomotive Leasing	MWLX	SW9	MWLX 137	Feb-51
-Midwest Locomotive Leasing	MWLX	SW9	MWLX 261	Jan-52
-Midwest Locomotive Leasing	MWLX	GP38	MWLX 362	Dec-67
-Midwest Locomotive Leasing	MWLX	SW1	MWLX 518	Oct-52
-Midwest Locomotive Leasing	MWLX	G11	MWLX 602	
-Midwest Locomotive Leasing	MWLX	SW1	MWLX 744	Sep-40
-Midwest Locomotive Leasing	MWLX	EMD	MWLX 781	Jan-50
-Midwest Locomotive Leasing	MWLX	SW1	MWLX 824	Apr-39
-Midwest Locomotive Leasing	MWLX	Rail	MWLX 1703	Feb-56
-Midwest Locomotive Leasing	MWLX	EMD	MWLX 1757	May-50
-Midwest Locomotive Leasing	MWLX	EMD	MWLX 1800	1951
-Midwest Locomotive Leasing	MWLX	SW1	MWLX 1940	Jun-40
-Midwest Locomotive Leasing	MWLX	GP38M-2	MWLX 2000	Jan-64
-Midwest Locomotive Leasing	MWLX	EMD	MWLX 2017	Jun-53
-Midwest Locomotive Leasing	MWLX	GP20	MWLX 2034	Oct-61
-Midwest Locomotive Leasing	MWLX	GP7u	MWLX 2153	Feb-51
-Midwest Locomotive Leasing	MWLX	SW1500	MWLX 2250	Nov-69
-Midwest Locomotive Leasing	MWLX	GP7	MWLX 4127	Oct-53
-Midwest Locomotive Leasing	MWLX	EMD	MWLX 6225	Aug-60
-Midwest Locomotive Leasing	MWLX	SD40	MWLX 6972	May-68
-Midwest Locomotive Leasing	MWLX	EMD	MWLX 12004	Jul-50
-Midwest Locomotive Leasing	MWLX	EMD	4444	May-56
+Company,Abbr,Model,Road No.,Date
+Midwest Locomotive Leasing,MWLX,SW1,MWLX 4,
+Midwest Locomotive Leasing,MWLX,SW1500,MWLX 13,Mar-70
+Midwest Locomotive Leasing,MWLX,GP38-2,MWLX 84,Sep-75
+Midwest Locomotive Leasing,MWLX,SW9,MWLX 137,Feb-51
+Midwest Locomotive Leasing,MWLX,SW9,MWLX 261,Jan-52
+Midwest Locomotive Leasing,MWLX,GP38,MWLX 362,Dec-67
+Midwest Locomotive Leasing,MWLX,SW1,MWLX 518,Oct-52
+Midwest Locomotive Leasing,MWLX,G11,MWLX 602,
+Midwest Locomotive Leasing,MWLX,SW1,MWLX 744,Sep-40
+Midwest Locomotive Leasing,MWLX,EMD,MWLX 781,Jan-50
+Midwest Locomotive Leasing,MWLX,SW1,MWLX 824,Apr-39
+Midwest Locomotive Leasing,MWLX,Rail,MWLX 1703,Feb-56
+Midwest Locomotive Leasing,MWLX,EMD,MWLX 1757,May-50
+Midwest Locomotive Leasing,MWLX,EMD,MWLX 1800,1951
+Midwest Locomotive Leasing,MWLX,SW1,MWLX 1940,Jun-40
+Midwest Locomotive Leasing,MWLX,GP38M-2,MWLX 2000,Jan-64
+Midwest Locomotive Leasing,MWLX,EMD,MWLX 2017,Jun-53
+Midwest Locomotive Leasing,MWLX,GP20,MWLX 2034,Oct-61
+Midwest Locomotive Leasing,MWLX,GP7u,MWLX 2153,Feb-51
+Midwest Locomotive Leasing,MWLX,SW1500,MWLX 2250,Nov-69
+Midwest Locomotive Leasing,MWLX,GP7,MWLX 4127,Oct-53
+Midwest Locomotive Leasing,MWLX,EMD,MWLX 6225,Aug-60
+Midwest Locomotive Leasing,MWLX,SD40,MWLX 6972,May-68
+Midwest Locomotive Leasing,MWLX,EMD,MWLX 12004,Jul-50
+Midwest Locomotive Leasing,MWLX,EMD,4444,May-56

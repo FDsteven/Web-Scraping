@@ -1,4 +1,4 @@
-Company,Abbr,Model ,Road No.,Date
+Company,Abbr,Model,Road No.,Date
 Railcar Leasing,RMGX,SD38-2,RMGX 1 & 2,Mar-74
 Railcar Leasing,RMGX,SW900 / SW9 / SW1200,RMGX 115,Sep-51
 Railcar Leasing,RMGX,SW900 / SW9 / SW1200,RMGX 711,Nov-53
@@ -38,4 +38,3 @@ Railcar Leasing,RMGX,GP40-2LW / GP40-2W,"RMPX 9578, 9603 & 9610",Jul-75
 Railcar Leasing,RMGX,GP40-2LW / GP40-2W,"RMPX 9637, 9638 & 9645",Mar-76
 Railcar Leasing,RMGX,GP40-2LW / GP40-2W,RMPX 9658 & 61,Jul-56
 Railcar Leasing,RMGX,GP38,RMGX 9706-9708,Oct-69
-,,,,
