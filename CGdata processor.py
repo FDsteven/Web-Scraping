@@ -23,14 +23,32 @@ def find_date(string):
     else:
         return ""
     return output
+
+def find_report_number(string):
+    pattern = r"\(([^()]+)\):"
+    all_occurence = re.findall(pattern,string)
+    if len(all_occurence) > 0:
+        output = all_occurence[0].strip()
+    else:
+        return ""
+    return output
+
+def find_acquisition_date(string):
+    pattern = r"(?i)\b(?:acquired:|acq\.)\s*(\d+)"
+    all_occurence = re.findall(pattern,string)
+    if len(all_occurence) > 0:
+        output = all_occurence[0].strip()
+    else:
+        return ""
+    return output
 Raw_data = pd.read_excel("CGdata12925.xlsx")
 Raw_data = Raw_data[Raw_data["locomotives"].notna()]
 Raw_data = Raw_data.reset_index()
-Expanded_data = pd.DataFrame(np.zeros(shape=(0,12)),columns=[
+Expanded_data = pd.DataFrame(np.zeros(shape=(0,13)),columns=[
     'company name','affiliation','former ID', 'ind',
     'city','state','address / directions','Phone #',
-    'locomotive serial number','locomotive model',
-    'Manufactured Date(MM/YY)','locomotives'
+    'Reporting Number','locomotive serial number','locomotive model',
+    'Manufactured Date(MM/YY)','Acquisition Date'
     ])
 for i in range(len(Raw_data)):
     x_string = Raw_data.loc[i,"locomotives"]
@@ -45,6 +63,8 @@ for i in range(len(Raw_data)):
                 serial_numbers = find_serial_number(line) # Find all 5-digit number sequences that are engine serial numbers
                 loco_type = find_model_type(line) # Find the Loco model listed after the ":" and before the "(", exceptions may occur
                 build_date = find_date(line) # Find the build-date, most likely has a lot of exceptions, pattern is "-/YY" or "M-YY" or "MM-YY", need to be directly before a ")"
+                report_number = find_report_number(line) # find string inside "()" just before ":"
+                acquisition_date = find_acquisition_date(line) # find string starts with"acq." or "Acquired:", including the following number
                 Expanded_data.loc[row_number,"company name"] = Raw_data.loc[i,"company name"]
                 Expanded_data.loc[row_number,"affiliation"] = Raw_data.loc[i,"affiliation"]
                 Expanded_data.loc[row_number,"former ID"] = Raw_data.loc[i,"former ID"]
@@ -56,6 +76,8 @@ for i in range(len(Raw_data)):
                 Expanded_data.loc[row_number,"locomotive serial number"] = serial_numbers
                 Expanded_data.loc[row_number,"locomotive model"] = loco_type
                 Expanded_data.loc[row_number,"Manufactured Date(MM/YY)"] = build_date
+                Expanded_data.loc[row_number,"Reporting Number"] = report_number
+                Expanded_data.loc[row_number,"Acquisition Date"] = acquisition_date
 cols = ['locomotive serial number','locomotive model','Manufactured Date(MM/YY)']
 mask_all_empty = Expanded_data[cols].apply(lambda x: x.isna() | (x.str.strip() == ""),axis = 1).all(axis=1)
 Expanded_data = Expanded_data[~mask_all_empty]
