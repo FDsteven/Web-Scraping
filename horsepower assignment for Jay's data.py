@@ -20,12 +20,13 @@ HP_reference = pd.read_csv("Locomotive HP Reference.csv",encoding='cp1252')
 # df = df.reset_index()
 # df['Horsepower'] = pd.DataFrame(np.zeros(shape=(len(df),1)), index=df.index)
 # print(df)
-df_raw = pd.read_csv("CGdata_manual_processed.csv",encoding='cp1252')
+df_raw = pd.read_csv("Expanded_CGData.csv",encoding='cp1252')
 for i in range(len(df_raw)):
-    loco_model = df_raw.loc[i,"locomotive model"].rsplit(";",1)[0]
+    loco_model = df_raw.loc[i,"locomotive model"]
     df_raw.loc[i,"locomotive model"] = loco_model
     if df_raw.loc[i,"locomotive model"] in HP_reference["Model"].values:
         print(str(i) + "True")
+        print(i)
         row = HP_reference.loc[(HP_reference["Model"] == df_raw.loc[i,"locomotive model"])].index[0]
         df_raw.loc[i,"HP"] = HP_reference.loc[row,"Power Output"]
 print(df_raw)

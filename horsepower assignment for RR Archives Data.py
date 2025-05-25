@@ -15,15 +15,24 @@ import regex as re
 def company_abbr_fetcher(string):
     pattern = r"([A-Za-z]+)\s*\d"
     match = re.search(pattern, string)
+    num_pattern = r"\xa0(.+)"
+    reporting_number_match = re.search(num_pattern, string)
+    full_name = ""
     if match:
         output = match.group(1)
         index_val = ArchiveList[ArchiveList['Reporting Marks'] == output].index
         index_val = index_val[0]
         company_name = ArchiveList.loc[index_val,"Railroad name"]
-        output = company_name
+        full_name = company_name
+        reporting_mark = output
     else:
         output = ""
-    return output
+        reporting_mark = ""
+    if reporting_number_match:
+        reporting_number = reporting_number_match.group(1)
+    else:
+        reporting_number = ""
+    return full_name, reporting_mark, reporting_number
 RR_Archives_list = "RR Picture Archives List.xlsx"
 ArchiveList = pd.read_excel("RR Picture Archives List.xlsx")
 Consolidated = pd.DataFrame(np.zeros(shape=(0,4)),columns=['Unit Number', 'Notes', 'Model','Serial Number'])
@@ -45,7 +54,8 @@ HP_reference = pd.read_csv("Locomotive HP Reference.csv",encoding='cp1252')
 # print(df)
 Company_name = np.zeros(len(Consolidated))
 Consolidated.insert(loc=0, column='Company Name', value=Company_name)
-
+Consolidated.insert(loc=1, column='Reporting Mark', value=Company_name)
+Consolidated.insert(loc=2, column='Reporting Number', value=Company_name)
 for i in range(len(Consolidated)):
     loco_model = Consolidated.loc[i,"Model"].rsplit(";",1)[0]
     Consolidated.loc[i,"Model"] = loco_model
@@ -59,5 +69,8 @@ Consolidated.to_csv("HP Assigned RR Archive Data.csv")
 Consolidated = pd.read_csv("HP Assigned RR Archive Data.csv")
 for i in range(len(Consolidated)):
     print(Consolidated.loc[i,"Unit Number"])
-    Consolidated.loc[i,"Company Name"] = company_abbr_fetcher(Consolidated.loc[i,"Unit Number"])
+    full_name, reporting_mark, reporting_number = company_abbr_fetcher(Consolidated.loc[i,"Unit Number"])
+    Consolidated.loc[i,"Company Name"] = full_name
+    Consolidated.loc[i,"Reporting Mark"] = reporting_mark
+    Consolidated.loc[i,"Reporting Number"] = reporting_number
 Consolidated.to_csv("HP Assigned RR Archive Data.csv")
