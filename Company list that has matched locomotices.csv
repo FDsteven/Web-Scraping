@@ -1,0 +1,94 @@
+,company name,Count,Rank,affiliation,former ID,industry type,city,state,address / directions,Phone #
+0,CMC   (Commercial Metals Co.)    ,3,1,,(formerly SMI Steel),  (steel mill) ,,,"101 50th St. S, 35212",  [(205) 592-8981]
+1,SC Johnson's - Waxdale Plant,2,2,,,,Sturtevant,,8311 16th St. 53177,
+2,Steel Dynamics - Southwest - Sinton Div.,2,2,,,rolling mill,Sinton,,"8534 SR 89, 78387",(361) 424-6200
+3,"Husky Energy, Inc.  â€“  Lima Refinery ",2,2,, (formerly Valero),,,,"1150 S. Metcalf St., 45804                     ",
+4,Scotts Company    ,2,2,,,(fertilizer),Marysville,,"14111 Scottslawn Rd., 43041                  ",
+5,Gerdau Ameristeel,2,2,,(formerly North Star Steel  Iowa ),,Wilton,,"Greens Road     (P.O. Box 749, 52778)           ", [(563) 732-3231]
+6,BP Amoco,2,2,,,,Cedar Bayou  (Baytown),,9548   I-10  E                 [(281) 421-2972],
+7,"Bunge North America (East), Inc.",2,2,(subs. Eridania Berghin-say),"(formerly Central Soya Co., Inc.)",,Decatur,,"1200 N. 2nd St.,  46733  ",  [(219) 724-2101]
+8,Chevron USA,2,2,,,,North Salt Lake City,,,
+9,Nucor Steel Decatur,2,2,,,cold rolling mill,,,"3401 Process  Road, 35601      (W. of...)            ", [(256) 584-7500]
+10,Savage Services,2,2,,,oil field services,Trenton,,,
+11,Dow Chemical  - Texas Div.,1,12,,,,,,"2301 N. Brazosport Blvd, 77541   ",   [(979) 238-2011]
+12,CGI / Ameripointe,1,12,,,oil field services,Ardmore,Ok.,,
+13,Tidewater Logistics,1,12,,,transload,,,,
+14,"Sunrise Cooperative, Inc.",1,12,,(formerly Southwest Landmark),  (grain),South Charleston,,"149 S. Chillicothe St., 45368                            [(937) 462-8341]",
+15,Heidelberg Materials,1,12,,(foerm Hanson Materials),,Parkertown,,"9220 Portland Rd (Catalia), 44824",  (419) 483-4390
+16,Suncoke Energy Middletown,1,12,,,,,,"3351 Yankee Rd., 45044",(513) 727-5500
+17,Cleveland Cliffs - Middletown Works,1,12,,(formerly AK Steel Corp.),,Middletown,,"703 Curtis St.,  45044      [(513) 425-5000]",
+18,Waste Management â€“ Atlantic Waste Disposal,1,12,,"(formerly USA Waste, Inc.)",sanitary landfill,Disputanta  / Waverly,,3474 Atlantic Ln  (off CR 602),
+19,"Carmeuse, Inc.",1,12,,,,Maple Grove  (Bettsville),,"1967 W. CR 42, (Bettsville), 44815                           ",  [(419) 986-2000]
+20,"Williams Ohio Valley Midstream, LLC / Williams Co.",1,12,,,natural gas transload,,,"(along SR 2, 3 mi. W. of...)",
+21,MetalX,1,12,,,scrap,Delta,,"7300 SR 109, 43515",(419) 518-2203
+22,Shelly Materials / Stoneco,1,12,,"(formerly Wyandot Dolomite, Inc.)",,,,"1794 County Rd. 99,   43316 ",   [(419) 396-7641]
+23,"Fulcrum Sierra Biofuels, LLC",1,12,,,,McCarran (Wunutoo Station),,"3600 Peru Dr., 89437",
+24,Appalachian Rail Services,1,12,(subs. Cathcart),(formerly Freight Car America),,Grand Island,,"Cornhusker Ordnance Building N17  68803  (on 3rd Ave, off Old Potash Hwy. (a.k.a 6th St), west of...)    ", [(308) 382-3880]
+25,Gavilon Grain  ,1,12,,(formerly Peavey Co.),,Cozad,,"305 East Highway 30, 69130                               ", [(308) 784-3611]
+26,"Cargill, Inc. â€“ North American Corn Milling        ",1,12,,,,,,"650 Industrial Rd., 68008                           ",   [(402) 533-4100 ]   
+27,Port of Shelton,1,12,,,,Shelton,,                                   , [(360) 426-1151]
+28,Holly Frontier Refining,1,12,,(formerly Sunoco),,,,1700 S Union Ave.,
+29,Continental Grain & Barge,1,12,,(formerly W. B. Johnston Grain Co.),,Shattuck,,"400 N. Santa Fe, 73858            ", [(580) 938-2593]
+30,Howard Energy - Maverick Terminal / SGS Petroleum Service Corp.,1,12,,,,,,Navigation Blvd.  (@ former port RR / CCPN yard office),
+31,Chevron Lubricants,1,12,,,,,,"W 7th St., 77640  ",(409) 985-3000
+32,Ineos  -  Chocolate Bayou Complex,1,12,,(formerly BP Amoco Chemicals),,Chocolate Bayou  (Liverpool / Alvin),,"FM 2004   (2 mi. s/w of FM 2004 & FM 2917, ~ 8 mi. s/e of Liverpool)  (P.O. Box 1488, (Alvin) 77512)      [(281) 581-3100]",
+33,Chesapeake Auto Terminal,1,12,,,,Chesapeake,,"1305 Atlantic Ave., 23324                          ",   [(757) 494-9240]
+34,"LBC PetroUnited, Inc.",1,12,,(former bulk liquid storage teminal of Celanese Chemical),(tank storage terminal),,,"11666 Port Rd., (Seabrook), 77586                        [(281) 474-4433]",
+35,Bayport Rail Terminal Corp.,1,12,,,,Bayport  (Seabrook),,"(locomotives often kept near A Ave and 1st St, between 5000 and 5100  Underwood Rd)  9800 Fairmont Parkway, (Seabrook,) 77586                        ", [(281) 291-0510]
+36,CSA Materials,1,12,,,,Alpine,,"45501 SR 118, 79830",  (432) 364-2131
+37,Texas Deepwater Industrial port,1,12,,,tank car storage,,,Penn City  Rd,
+38,General Mills,1,12,,,,Murfreesboro,,200 Butler Dr.,(615) 890-9900
+39,Cargill,1,12,,,vegetable oil mill & refinery,Gainesville,,"862 W Ridge Rd., 30501",(770) 531-4700
+40,"Domtar Paper Co., LLC",1,12,,(formerly Weyerhaeuser ),paper mill,,,"100 Clinchfield St., 37660",(423) 247-7111
+41,Nucor Steel â€“ Texas,1,12,,,,Newby  (Jewett),,"8812 Hwy 79 S., 75846       ", [(903) 626-4461]
+42,AIPC / Winland,1,12,,(formerly ConAgra),,Columbia,,"2000 American Italian Way., 29209",(803) 695-7300
+43,Progress Rail Services,1,12,,,(car parts reclamation),Albertville,,"1800 Industrial Blvd.         (P.O. Box 1037, 35950)        ",[(256) 593-1261]
+44,Giant Cement Co.   ,1,12,(subs. Keystone Cement / Cementos Portland S.A.),,,,,"654 Judge St. (Hwy 453 S)    (P. O. Box 218, 29448)     ",  [(803) 496-7880]
+45,Argos Cement,1,12,,(formerly Lafarge),,Roberta,,,
+46,Pennsy Supply  -  Annville Quarry,1,12,,(formerly Carmeuse),,Annville,,"SR 422 & Clear Springs Rd.      (P.O. Box 160, 17003)        ",[(717) 867-7500]
+47,Boeing North America              ,1,12,,(formerly Rockwell International),,Tulsa,,,
+48,Williams Alaska Petroleum / Mapco,1,12,,,,Anchorage,Ak.,Ocean Dock Rd.    (in port area),
+49,CIG Logistics,1,12,,,transload,,,,
+50,Columbia Grain,1,12,(subs. Marubeni),,grain elevator,Harlem,,  SR 241 / Center Ave. E,
+51,Foster Townsend Rail Logistics / Tri City Port Authority,1,12,,,,,,,
+52,Flint Hills Resources,1,12,,"(formerly Hawkeye, LLC)",ethanol,Menlo,,"3363 Talon Ave., 50164",  (641) 524-5612
+53,Southern Power  -  Plant Wansley  ,1,12,(subs. Southern Co. ),Formerly Georgia Power Co.),,Wansley  (Lowell),,"    (4 mi. S of Lowell)       (SR  5, (Roopville), 30170)",
+54,Georgia Power Co.  â€“  Plant Bowen,1,12, (subs. Southern Co.),,,Stilesboro,,Euharlee-Stilesboro Rd.,
+55,International Paper,1,12,,(formerly Weyerhaeuser - Flint River Operations),,Oglethorpe,,"Stagecoach Road,  31068   ", [(912) 472-2527]
+56,Pilgrim's Pride,1,12,,,feed mill,Pinckard,,"1042 Forest Dr., 36350    (1 Mi. NNW of...)",(334) 984-2213
+57,Brunswick Cellulose,1,12,(subs. Kock Cellulose),formerly Georgia Pacific Corp.,,Brunswick,,"1010 Ga Highway 32, 31523                               [ (912) 265-5780]",
+58,Port Panama City,1,12,,,,Panama City,,"  (off US 98 Business)         (P. O. Box 15095, 32406)                   ", [(850) 767-3220]
+59,Georgia Pacific Corp.,1,12,,(formerly Fort James Corp.),(paper mill),Naheola,,,
+60,"Cypress Truck Lines, Inc",1,12,,,truck terminal,,,"1414 Lindrose St., 32206",(904) 358-8641
+61,"Ardent Mills, LLC - Port Redwing Mill",1,12,,,flour mill,Gibsonton,,"6041 Dinana Toledo Almeida Rd., 33534",  (800) 851-9618
+62,Dagsboro Materials,1,12,(subs. Haines & Kibblehouse),,materials distribution,Dagsboro,De.,"30548 Thorogoods Rd  (Rd 333), 19939  (1 mi. NW of...)",(302) 933-0900
+63,Niobrara Crude Terminal,1,12,,,,Carr,,,
+64,"Chevron USA, Inc.",1,12,,,,El Segundo,,"324 West El Segundo Blvd., 90245                     ",   [(310) 615-5000]
+65,Union Tank Car,1,12,,(formerly GE Capital Railcar Service Corp. ),railcar repair,Texarkana,,"2006 N. Oats St., 75502      (N. Oats & Nash-Thompson Ln.)", [(501) 773-5641]
+66,"BPG, PLC. / Certainteed",1,12,,(formerly James Hardie Gypsum Co.)  ,(gypsum board) ,Briar Plant / Perkins,,"  (PO Box 509, Nashville, Ar., 71949)        [(501 845-4951]    (12 mi. north of Nashville on SR 369)",
+67,"Tube City, Inc. / TMS",1,12,,,scrap yard,Fairfield,,"123 Scrap Yard Road, 35064             ",[(205) 781-3629]
+68,Cherokee Nitrogen,1,12,(subs. LSB Ind.),,,Cherokee / (Vertagreen Station),,"1080 Industrial Dr., 35616  (~4 m. NE of ...)  ",(256) 359-7000
+69,Outokumpu Stainless USA,1,12,,(formerly Inoxum / ThyssenKrupp),,Calvert,,"1 Steel Dr, 36513",
+70,Vulcan Materials,1,12,,,aggregates yard,,,110 Stone Blvd,(850) 968-0994
+71,Prairie Central Cooperative,1,12,,,,Pontiac,,"  (N/E of ...)    CR 200, off old US 66",
+72,"Tube City, Inc.  ",1,12,,,(scrap),,,1 North Broadway   (inside USS - Gary Works)       , [(219) 881-0144)
+73,BASF Corp.,1,12,,,,Geismar,,"River Rd. / SR30 E., 70734",
+74,Domtar,1,12,,(formerly Weyerhaeuser Co.  ),(paper mill),Plymouth,,"Trowbridge Rd. & W. Main St. Extension, 27962       [(919) 793-8111]",
+75,Tyson Foods ,1,12,,"(formerly Choctaw Maid Farms, Inc.)", (feed mill),Union,,,
+76,Stoneco - Lansing Rail terminal,1,12,,(formerly Conrad Yelvington Distributors),aggregates yard,,,3275 N MLK Blvd., 
+77,CHS Agronomy,1,12,,,grain elevator,Wayland,MI,"1107 Reno Dr., 49348",(877) 969-1122
+78,Perdue  Agri-Business,1,12,,,soy processing,Salisbury,,"6906 Zion Church Rd., 21804",(866) 816-7946
+79,Waste Management,1,12,,,refuse transfer,Annapolis Jct. / Jessup,,"8077 Brock Bridge Rd., 20794",(240) 514-4348
+80,Sasol,1,12,,,,West Lake Charles / Westlake,,,
+81,Union Tank Car Co. / UTLX,1,12,,(formerly Lithcote Co.)    ,(railcar shop) ,Ville Platte,,"1373 Union Tank Rd.  (P.O. Box 466, 70586)               ",  [(318) 363-5507]
+82,Calgon Carbon Corp.,1,12,,,,Catlettsburg,,"US 23            (PO BOX 664, 41129)     ", [(606) 739-8681]
+83,Buckeye Terminal,1,12,,,oil terminal,Hammond,,"2400 Michigan St., 46320",  (219) 989-8600
+84,River Metals Recycling,1,12,(subs. DJJ / David J Joseph Co.),(formerly CRHS  Mansbach Metal Co. ),,Ashland,Ky.,"1900 Front St.             ( P.O. Box 1179, 41105)         ",  [(606) 329-9600]
+85,CHS United Plains Ag,1,12,,(formerly Wallace County Cooperative Equity Exchange),,Sharon Springs,,"102 N. Front St., 67758              ",  (785) 943-5422
+86,Collingwood Grain / ADM,1,12,,,,,,,
+87, Bartlett â€“ Fairfax Elevator,1,12,(subs. Savage),(formerly Farmland Industries     ),,Fairfax  (Kansas City),,"940 Kindlerberger Rd., 66115",(913) 321-1696
+88,Great Plains Industrial Park,1,12,,,industrial park / car storage,Parsons,,23050 Scott Rd. (on former Ks. Army Ammunition Plant site)  (S/W of Parsons),(620) 421-1228
+89,Consolidated Grain & Barge,1,12,,(formerly Ag Products Terminal Co.),,Clayton,,,
+90,Progress Rail,1,12,,,locomotive shop,Muncie,,"3500 S Cowan Rd., 47302",
+91,"Cargill, Inc.",1,12,,,,Denver,,"1451 Cargill Dr., 80221        ", [(303) 433-6331]
+92,Strata Corp.,1,12,,,(aggregates distribution),Devils Lake,,,

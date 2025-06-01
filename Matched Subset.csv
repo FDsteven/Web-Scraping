@@ -1,0 +1,106 @@
+,index,company name,affiliation,former ID,industry type,city,state,address / directions,Phone #,Full Reporting Number,Reporting Mark,Reporting Number,locomotive serial number,locomotive model,Manufactured Date(MM/YY),Acquisition Date,HP,Cross Match
+0,2,Williams Alaska Petroleum / Mapco,,,,Anchorage,Ak.,Ocean Dock Rd.    (in port area),,CLC 02113,CLC,2113,2113.0,S4,,2002.0,,Serial Match
+1,21,CMC   (Commercial Metals Co.)    ,,(formerly SMI Steel),  (steel mill) ,,,"101 50th St. S, 35212",  [(205) 592-8981],LOCX 1005,LOCX,1005,,SW8,,,800.0,Reporting Match
+2,22,CMC   (Commercial Metals Co.)    ,,(formerly SMI Steel),  (steel mill) ,,,"101 50th St. S, 35212",  [(205) 592-8981],LOCX 1226,LOCX,1226,18846.0,SW9m,Dec-53,2016.0,,Reporting Match
+3,23,CMC   (Commercial Metals Co.)    ,,(formerly SMI Steel),  (steel mill) ,,,"101 50th St. S, 35212",  [(205) 592-8981],LOCX 150,LOCX,150,10243.0,SW7,Dec-50,,1200.0,Reporting Match
+4,40,Outokumpu Stainless USA,,(formerly Inoxum / ThyssenKrupp),,Calvert,,"1 Steel Dr, 36513",,RLIX 2010,RLIX,2010,37376.0,GP38,Apr-71,,2000.0,Reporting Match
+5,43,Cherokee Nitrogen,(subs. LSB Ind.),,,Cherokee / (Vertagreen Station),,"1080 Industrial Dr., 35616  (~4 m. NE of ...)  ",(256) 359-7000,PRLX 2202,PRLX,2202,37065.0,SW1500,Feb-71,2019.0,1500.0,Reporting Match
+6,51,"Tube City, Inc. / TMS",,,scrap yard,Fairfield,,"123 Scrap Yard Road, 35064             ",[(205) 781-3629],JRWX 137,JRWX,137,75662.0,S2,Mar-48,,,Reporting Match
+7,79,Nucor Steel Decatur,,(formerly Trico Steel Co.),hot mill,Trinity   (Decatur),,"TriSteel Blvd.  (off Hwy. 72, in Mallard Fox Industrial Park)   ", [(205) 580-9500]),LLX 146,LLX,146,32313.0,SW1000,Oct-66,1997.0,1000.0,Reporting Match
+8,80,Nucor Steel Decatur,,(formerly Trico Steel Co.),hot mill,Trinity   (Decatur),,"TriSteel Blvd.  (off Hwy. 72, in Mallard Fox Industrial Park)   ", [(205) 580-9500]),LLX 147,LLX,147,33915.0,SW1000,Apr-68,1996.0,1000.0,Reporting Match
+9,92,"BPG, PLC. / Certainteed",,(formerly James Hardie Gypsum Co.)  ,(gypsum board) ,Briar Plant / Perkins,,"  (PO Box 509, Nashville, Ar., 71949)        [(501 845-4951]    (12 mi. north of Nashville on SR 369)",,,,,177.0,Porter 65ton,Aug-44,,,Serial Match
+10,125,Union Tank Car,,(formerly GE Capital Railcar Service Corp. ),railcar repair,Texarkana,,"2006 N. Oats St., 75502      (N. Oats & Nash-Thompson Ln.)", [(501) 773-5641],RSSX 1052,RSSX,1052,20161.0,GP9,Feb-55,,1750.0,Reporting Match
+11,171,"Chevron USA, Inc.",,,,El Segundo,,"324 West El Segundo Blvd., 90245                     ",   [(310) 615-5000],RLIX 1500,RLIX,1500,34429.0,SW1500,-69,2024.0,1500.0,Reporting Match
+12,241,Niobrara Crude Terminal,,,,Carr,,,,RSSX 2120,RSSX,2120,19085.0,SW1200,Jan-55,,1200.0,Reporting Match
+13,285,Dagsboro Materials,(subs. Haines & Kibblehouse),,materials distribution,Dagsboro,De.,"30548 Thorogoods Rd  (Rd 333), 19939  (1 mi. NW of...)",(302) 933-0900,HKGX 1850,HKGX,1850,18713.0,GP7m,Oct-53,2017.0,,Reporting Match
+14,295,"Ardent Mills, LLC - Port Redwing Mill",,,flour mill,Gibsonton,,"6041 Dinana Toledo Almeida Rd., 33534",  (800) 851-9618,CAGX 1039,CAGX,1039,14670.0,GP7,Aug-51,2022.0,1500.0,Reporting Match
+15,343,"Cypress Truck Lines, Inc",,,truck terminal,,,"1414 Lindrose St., 32206",(904) 358-8641,,,,304.0,Plymouth ML-6,May-43,,,Serial Match
+16,370,Georgia Pacific Corp.,,,,Palatka,,"SR 216    (N/W of...)      (P.O. Box 919, 32077)  ", [(904) 325-2001],,,,3681.0,GE 45ton,Sep-51,,,Serial Match
+17,374,Port Panama City,,,,Panama City,,"  (off US 98 Business)         (P. O. Box 15095, 32406)                   ", [(850) 767-3220],MPRX 1371,MPRX,1371,,SW1200RS,-60,,1200.0,Reporting Match
+18,395,Brunswick Cellulose,(subs. Kock Cellulose),formerly Georgia Pacific Corp.,,Brunswick,,"1010 Ga Highway 32, 31523                               [ (912) 265-5780]",,RSSX 5547,RSSX,5547,23566.0,GP9,-57,,1750.0,Reporting Match
+19,397,Pilgrim's Pride,,(formerly Gold Kist),(feed mill),Calhoun,,"102 N Industrial Blvd., 30701      ",(706) 629-4464,JRWX 128,JRWX,128,,NW2,,,1000.0,Reporting Match
+20,430,International Paper,,(formerly Weyerhaeuser Co.),pulp mill,Port Wentworth,,1 Bonny Bridge Rd.,,PWFX 102,PWFX,102,24155.0,SW1200,-57,,1200.0,Reporting Match
+21,444,Georgia Power Co.  â€“  Plant Bowen, (subs. Southern Co.),,,Stilesboro,,Euharlee-Stilesboro Rd.,,MBCX 306,MBCX,306,,SW1500 Nee SP.,,,,Reporting Match
+22,453,Southern Power  -  Plant Wansley  ,(subs. Southern Co. ),Formerly Georgia Power Co.),,Wansley  (Lowell),,"    (4 mi. S of Lowell)       (SR  5, (Roopville), 30170)",,MBCX 303,MBCX,303,30026.0,SW1200,Jan-65,,1200.0,Reporting Match
+23,539,Flint Hills Resources,,"(formerly Hawkeye, LLC)",ethanol,Menlo,,"3363 Talon Ave., 50164",  (641) 524-5612,CITX 3110,CITX,3110,31531.0,SD40,Apr-66,2021.0,3000.0,Reporting Match
+24,660,Foster Townsend Rail Logistics / Tri City Port Authority,,,,,,,,MRS 001,MRS,1,20942.0,SW900,Dec-55,,900.0,Reporting Match
+25,690,Vulcan Materials,,,,Lehigh / Limestone  (Kankakee),,"1277 S 7000 W  Road, Kankakee, 60901    (~5 mi. W. of Kankakee)      ",[(815) 937-7911],PRLX 1220,PRLX,1220,,MP15T,Mar-85,2011.0,1500.0,Reporting Match
+26,723,Prairie Central Cooperative,,,,Pontiac,,"  (N/E of ...)    CR 200, off old US 66",,MALX 1330,MALX,1330,,C420,Aug-67,,2000.0,Reporting Match
+27,802,"Bunge North America (East), Inc.",(subs. Eridania Berghin-say),"(formerly Central Soya Co., Inc.)",,Decatur,,"1200 N. 2nd St.,  46733  ",  [(219) 724-2101],RLIX 1528,RLIX,1528,35590.0,SW1500,,2021.0,1500.0,Reporting Match
+28,839,"Tube City, Inc.  ",,,(scrap),,,1 North Broadway   (inside USS - Gary Works)       , [(219) 881-0144),LOCX 44,LOCX,44,,SW1200,,,1200.0,Reporting Match
+29,863,Buckeye Terminal,,,oil terminal,Hammond,,"2400 Michigan St., 46320",  (219) 989-8600,SVGX 204,SVGX,204,30743.0,SW1200,Oct-65,,1200.0,Reporting Match
+30,864,"Cargill, Inc.",,"(formrely Cerestar USA, Inc.)",(starch),,,"1100 Indianapolis Blvd., Hammond, Indiana, 46320,",,RSSX 1503,RSSX,1503,20416.0,SW1200,-55,,1200.0,Reporting Match
+31,882,Progress Rail,,,locomotive shop,Muncie,,"3500 S Cowan Rd., 47302",,PRLX 2200,PRLX,2200,35061.0,SW1500,Feb-71,,1500.0,Reporting Match
+32,900,Consolidated Grain & Barge,,,,,,,,FLSX 71,FLSX,71,17082.0,GP7,Dec-52,,1500.0,Reporting Match
+33,918,Great Plains Industrial Park,,,industrial park / car storage,Parsons,,23050 Scott Rd. (on former Ks. Army Ammunition Plant site)  (S/W of Parsons),(620) 421-1228,PRLX 1213,PRLX,1213,20065.0,SW1200,Oct-54,,1200.0,Reporting Match
+34,944, Bartlett â€“ Fairfax Elevator,(subs. Savage),(formerly Farmland Industries     ),,Fairfax  (Kansas City),,"940 Kindlerberger Rd., 66115",(913) 321-1696,MWRX 1308,MWRX,1308,15250.0,GP7,-51,,1500.0,Reporting Match
+35,954,Collingwood Grain / ADM,,,,,,,,DLSX 457,DLSX,457,16354.0,SW8,Apr-52,,800.0,Reporting Match
+36,975,CHS United Plains Ag,,(formerly Wallace County Cooperative Equity Exchange),,Sharon Springs,,"102 N. Front St., 67758              ",  (785) 943-5422,CHSX 6971,CHSX,6971,,SD40-2,Apr-71,2019.0,3000.0,Reporting Match
+37,988,River Metals Recycling,(subs. DJJ / David J Joseph Co.),(formerly CRHS  Mansbach Metal Co. ),,Ashland,Ky.,"1900 Front St.             ( P.O. Box 1179, 41105)         ",  [(606) 329-9600],PRLX 61,PRLX,61,,SW900 [Ex Mansbach Metal #861,,,,Reporting Match
+38,990,Calgon Carbon Corp.,,,,Catlettsburg,,"US 23            (PO BOX 664, 41129)     ", [(606) 739-8681],,,,131.0,VO1000,,1997.0,,Serial Match
+39,1038,BASF Corp.,,,,Geismar,,"River Rd. / SR30 E., 70734",,RSSX 8260,RSSX,8260,17736.0,,Apr-53,,,Reporting Match
+40,1085,Union Tank Car Co. / UTLX,,(formerly Lithcote Co.)    ,(railcar shop) ,Ville Platte,,"1373 Union Tank Rd.  (P.O. Box 466, 70586)               ",  [(318) 363-5507],RSSX 904,RSSX,904,31224.0,SW1200,Apr-66,,1200.0,Reporting Match
+41,1087,Sasol,,,,West Lake Charles / Westlake,,,,SVGX 8601,SVGX,8601,17729.0,GP7,,2016.0,1500.0,Reporting Match
+42,1101,Waste Management,,,refuse transfer,Annapolis Jct. / Jessup,,"8077 Brock Bridge Rd., 20794",(240) 514-4348,JRWX 8379,JRWX,8379,25031.0,GP9,-58,,1750.0,Reporting Match
+43,1112,Perdue  Agri-Business,,,soy processing,Salisbury,,"6906 Zion Church Rd., 21804",(866) 816-7946,PFMX 1503,PFMX,1503,,SW1500,-72,,1500.0,Reporting Match
+44,1120,CHS Agronomy,,,grain elevator,Wayland,MI,"1107 Reno Dr., 49348",(877) 969-1122,GLLX 4433,GLLX,4433,19671.0,GP9,Aug-54,,1750.0,Reporting Match
+45,1169,Stoneco - Lansing Rail terminal,,(formerly Conrad Yelvington Distributors),aggregates yard,,,3275 N MLK Blvd., ,GLLX 921,GLLX,921,24930.0,GP9,Dec-59,,1750.0,Reporting Match
+46,1356,Tyson Foods ,,"(formerly Choctaw Maid Farms, Inc.)", (feed mill),Union,,,,KMMX 128,KMMX,128,22755.0,SW1200,Jul-57,,1200.0,Reporting Match
+47,1451,Domtar,,(formerly Weyerhaeuser Co.  ),(paper mill),Plymouth,,"Trowbridge Rd. & W. Main St. Extension, 27962       [(919) 793-8111]",,RLIX 1207,RLIX,1207,11166.0,SW9,Jun-52,2015.0,1200.0,Reporting Match
+48,1460,Columbia Grain,(subs. Marubeni),(formerly Peavey Co. and Ag Processing - formerly neighboring facilities),(grain elevaor),Berea / Valley City,,"Exit 288, I-94, 58072     ", [(701) 845-2623],CGWX 1500,CGWX,1500,,MP15AC Ex Crete Grain #1500,,,,Reporting Match
+49,1470,Strata Corp.,,,(aggregates distribution),Devils Lake,,,,BGSX 230,BGSX,230,20544.0,SW1200,-55,,1200.0,Reporting Match
+50,1491,Savage Services,,,oil field services,Trenton,,,,SVGX 8604,SVGX,8604,,GP9,-56,,1750.0,Reporting Match
+51,1492,Savage Services,,,oil field services,Trenton,,,,SVGX 8618,SVGX,8618,33689.0,GP38d-3,Nov-67,2019.0,,Reporting Match
+52,1506,CIG Logistics,,,transload,,,,,CITX 2800,CITX,2800,,SD40-2,Sep-67,,3000.0,Reporting Match
+53,1541,Progress Rail Services,,(formerly Trinity Railcar),,,,"   (4 mi. E. of...)   (RR 2, 69301)       ", [(308) 762-1393],PRLX 4615,PRLX,4615,22844.0,GP9,Mar-57,,1750.0,Reporting Match
+54,1547,"Cargill, Inc. â€“ North American Corn Milling        ",,,,,,"650 Industrial Rd., 68008                           ",   [(402) 533-4100 ]   ,RSSX 3817,RSSX,3817,25123.0,GP9,-59,,1750.0,Reporting Match
+55,1558,Gavilon Grain  ,,(formerly Peavey Co.),,Cozad,,"305 East Highway 30, 69130                               ", [(308) 784-3611],DBGX 6634,DBGX,6634,25606.0,SD24d,Oct-59,,,Reporting Match
+56,1574,Appalachian Rail Services,(subs. Cathcart),(formerly Freight Car America),,Grand Island,,"Cornhusker Ordnance Building N17  68803  (on 3rd Ave, off Old Potash Hwy. (a.k.a 6th St), west of...)    ", [(308) 382-3880],WCCX 1,WCCX,1,14372.0,SW9m,Jul-51,,,Reporting Match
+57,1631,"Fulcrum Sierra Biofuels, LLC",,,,McCarran (Wunutoo Station),,"3600 Peru Dr., 89437",,SVGX 1518,SVGX,1518,25750.0,SW1200,-60,2022.0,1200.0,Reporting Match
+58,1649,"Bunge North America (East), Inc.",,"(formerly Central Soya Co., Inc.)",,Bellevue,,"605 Goodrich Rd.   (P.O. Box 369, 44811)    ", [(419) 483-5340],LSLX 905,LSLX,905,,SW8,,,800.0,Reporting Match
+59,1690,Shelly Materials / Stoneco,,"(formerly Wyandot Dolomite, Inc.)",,,,"1794 County Rd. 99,   43316 ",   [(419) 396-7641],PRLX 3604,PRLX,3604,,SW1000,Dec-72,2015.0,1000.0,Reporting Match
+60,1727,MetalX,,,scrap,Delta,,"7300 SR 109, 43515",(419) 518-2203,RTEX 8138,RTEX,8138,,SW1200RS,,,1200.0,Reporting Match
+61,1745,"Husky Energy, Inc.  â€“  Lima Refinery ",, (formerly Valero),,,,"1150 S. Metcalf St., 45804                     ",,PRLX 1505,PRLX,1505,34486.0,SW1500,-68,2023.0,1500.0,Reporting Match
+62,1746,"Husky Energy, Inc.  â€“  Lima Refinery ",, (formerly Valero),,,,"1150 S. Metcalf St., 45804                     ",,PRLX 1513,PRLX,1513,36856.0,SW1500,Apr-71,2023.0,1500.0,Reporting Match
+63,1758,"Carmeuse, Inc.",,,,Maple Grove  (Bettsville),,"1967 W. CR 42, (Bettsville), 44815                           ",  [(419) 986-2000],RTEX 4006,RTEX,4006,,GP9,-57,,1750.0,Reporting Match
+64,1771,Scotts Company    ,,,(fertilizer),Marysville,,"14111 Scottslawn Rd., 43041                  ",,RSSX 553,RSSX,553,,GP15,Jun-76,2020.0,,Reporting Match
+65,1772,Scotts Company    ,,,(fertilizer),Marysville,,"14111 Scottslawn Rd., 43041                  ",,RSSX 7,RSSX,7,,SW1500 Nee P&LE #1556. Acq.,,,,Reporting Match
+66,1803,Cleveland Cliffs - Middletown Works,,(formerly AK Steel Corp.),,Middletown,,"703 Curtis St.,  45044      [(513) 425-5000]",,RTEX 1230,RTEX,1230,73620.0,SW1001,Oct-73,2022.0,1000.0,Reporting Match
+67,1806,Suncoke Energy Middletown,,,,,,"3351 Yankee Rd., 45044",(513) 727-5500,RASX 1005,RASX,1005,10736.0,GP7,Jun-50,,1500.0,Reporting Match
+68,1823,Heidelberg Materials,,(foerm Hanson Materials),,Parkertown,,"9220 Portland Rd (Catalia), 44824",  (419) 483-4390,,,,3706.0,TR6A Formerly Hanson Materials,,,,Serial Match
+69,1827,"Sunrise Cooperative, Inc.",,(formerly Southwest Landmark),  (grain),South Charleston,,"149 S. Chillicothe St., 45368                            [(937) 462-8341]",,TANX 1714,TANX,1714,,GP9 Ex Southwest Landmark,,,,Reporting Match
+70,1832,Tidewater Logistics,,,transload,,,,,LSLX 1712,LSLX,1712,23134.0,GP9,Nov-54,2023.0,1750.0,Reporting Match
+71,1866,Holly Frontier Refining,,(formerly Sunoco),,,,1700 S Union Ave.,,CITX 1557,CITX,1557,73622.0,SW1500,Oct-73,,1500.0,Reporting Match
+72,1867,CGI / Ameripointe,,,oil field services,Ardmore,Ok.,,,CITX 2790,CITX,2790,34017.0,,Mar-68,,,Reporting Match
+73,1895,Continental Grain & Barge,,(formerly W. B. Johnston Grain Co.),,Shattuck,,"400 N. Santa Fe, 73858            ", [(580) 938-2593],MPRX 2810,MPRX,2810,,GP38,,,2000.0,Reporting Match
+74,1899,Boeing North America              ,,(formerly Rockwell International),,Tulsa,,,,USAF 4007,USAF,4007,61237.0,RS4TC,Mar-54,,,Reporting Match
+75,1936,Pennsy Supply  -  Annville Quarry,,(formerly Carmeuse),,Annville,,"SR 422 & Clear Springs Rd.      (P.O. Box 160, 17003)        ",[(717) 867-7500],WIMX 6521,WIMX,6521,38366.0,SD45m,Oct-71,,,Reporting Match
+76,2099,Argos Cement,,(formerly Lafarge Corp.  ),,Harleyville,,"463 Judge St., 29448   (just s. of Hwy. 453 & I-26)   ", [(803) 462-7651],MPRX 1000,MPRX,1000,,GE 80ton,,,,Reporting Match
+77,2100,Giant Cement Co.   ,(subs. Keystone Cement / Cementos Portland S.A.),,,,,"654 Judge St. (Hwy 453 S)    (P. O. Box 218, 29448)     ",  [(803) 496-7880],PRLX 2664,PRLX,2664,,GP38-2,Feb-79,2023.0,2000.0,Reporting Match
+78,2123,AIPC / Winland,,(formerly ConAgra),,Columbia,,"2000 American Italian Way., 29209",(803) 695-7300,RSSX 2535,RSSX,2535,35228.0,SW1500,-69,2018.0,1500.0,Reporting Match
+79,2161,Gerdau Ameristeel,(subs. Gerdau Group),(formerly Florida Steel),,Jackson,,"801 Gerdau Ameristeel Dr., 38301       ", [(901) 424-5600],,,,625.0,VO1000,,,,Serial Match
+80,2162,Gerdau Ameristeel,(subs. Gerdau Group),(formerly Florida Steel),,Jackson,,"801 Gerdau Ameristeel Dr., 38301       ", [(901) 424-5600],PRLX 1523,PRLX,1523,35119.0,SW1500,Sep-69,2023.0,1500.0,Reporting Match
+81,2166,"Domtar Paper Co., LLC",,(formerly Weyerhaeuser ),paper mill,,,"100 Clinchfield St., 37660",(423) 247-7111,CLC 02111,CLC,2111,2111.0,S2,,2003.0,,Serial Match
+82,2170,Cargill,,,,Memphis,,"2330 Buoy St., 38109    (President's Island)", (901) 775-5800,RSSX 2537,RSSX,2537,35230.0,SW1500,-69,,1500.0,Reporting Match
+83,2175,General Mills,,,,Murfreesboro,,200 Butler Dr.,(615) 890-9900,RSSX 8939,RSSX,8939,14505.0,SW9,May-51,,1200.0,Reporting Match
+84,2194,Texas Deepwater Industrial port,,,tank car storage,,,Penn City  Rd,,RSSX 4551,RSSX,4551,14243.0,GP7,Nov-51,,1500.0,Reporting Match
+85,2212,CSA Materials,,,,Alpine,,"45501 SR 118, 79830",  (432) 364-2131,CBFX 6055,CBFX,6055,,SD38-2 Formerly at CIG Logistics,,,,Reporting Match
+86,2223,Bayport Rail Terminal Corp.,,,,Bayport  (Seabrook),,"(locomotives often kept near A Ave and 1st St, between 5000 and 5100  Underwood Rd)  9800 Fairmont Parkway, (Seabrook,) 77586                        ", [(281) 291-0510],RSSX 5049,RSSX,5049,16967.0,GP7m,Jan-53,,,Reporting Match
+87,2226,"LBC PetroUnited, Inc.",,(former bulk liquid storage teminal of Celanese Chemical),(tank storage terminal),,,"11666 Port Rd., (Seabrook), 77586                        [(281) 474-4433]",,RSSX 8234,RSSX,8234,,GP9,Feb-58,2019.0,1750.0,Reporting Match
+88,2244,BP Amoco,,,,Cedar Bayou  (Baytown),,9548   I-10  E                 [(281) 421-2972],,ISCX 159,ISCX,159,14903.0,SW9,-51,,1200.0,Reporting Match
+89,2245,BP Amoco,,,,Cedar Bayou  (Baytown),,9548   I-10  E                 [(281) 421-2972],,Canac 1323,Canac,1323,1560.0,SW1200RS,-58,,1200.0,Serial Match
+90,2255,Ineos  -  Chocolate Bayou Complex,,(formerly BP Amoco Chemicals),,Chocolate Bayou  (Liverpool / Alvin),,"FM 2004   (2 mi. s/w of FM 2004 & FM 2917, ~ 8 mi. s/e of Liverpool)  (P.O. Box 1488, (Alvin) 77512)      [(281) 581-3100]",,RLIX 300,RLIX,300,37058.0,SW1500,Feb-71,,1500.0,Reporting Match
+91,2264,Howard Energy - Maverick Terminal / SGS Petroleum Service Corp.,,,,,,Navigation Blvd.  (@ former port RR / CCPN yard office),,PRLX 1230,PRLX,1230,29443.0,SW1200,Jun-64,,1200.0,Reporting Match
+92,2308,Dow Chemical  - Texas Div.,,,,,,"2301 N. Brazosport Blvd, 77541   ",   [(979) 238-2011],RSSX 3428,RSSX,3428,21371.0,GP9,Apr-56,2003.0,1750.0,Reporting Match
+93,2373,Nucor Steel â€“ Texas,,,,Newby  (Jewett),,"8812 Hwy 79 S., 75846       ", [(903) 626-4461],DJRX 65,DJRX,65,,GE,,,,Reporting Match
+94,2389,Chevron Lubricants,,,,,,"W 7th St., 77640  ",(409) 985-3000,RSSX 904,RSSX,904,31224.0,SW1200,Apr-66,,1200.0,Reporting Match
+95,2421,Steel Dynamics - Southwest - Sinton Div.,,,rolling mill,Sinton,,"8534 SR 89, 78387",(361) 424-6200,OMNX 1,OMNX,1,31685.0,SW1200,-66,2020.0,1200.0,Reporting Match
+96,2422,Steel Dynamics - Southwest - Sinton Div.,,,rolling mill,Sinton,,"8534 SR 89, 78387",(361) 424-6200,OMNX 4,OMNX,4,31219.0,SW1200,Apr-66,,1200.0,Reporting Match
+97,2462,Chevron USA,,,,North Salt Lake City,,,,RSSX 436,RSSX,436,18833.0,GP9,Jun-54,2004.0,1750.0,Reporting Match
+98,2464,Chevron USA,,,,North Salt Lake City,,,,RSSX 4471,RSSX,4471,14671.0,GP7,Aug-51,2013.0,1500.0,Reporting Match
+99,2484,Chesapeake Auto Terminal,,,,Chesapeake,,"1305 Atlantic Ave., 23324                          ",   [(757) 494-9240],IRLX 1501,IRLX,1501,,SW1500,Dec-72,2000.0,1500.0,Reporting Match
+100,2487,Waste Management â€“ Atlantic Waste Disposal,,"(formerly USA Waste, Inc.)",sanitary landfill,Disputanta  / Waverly,,3474 Atlantic Ln  (off CR 602),,DLSX 12,DLSX,12,27507.0,SW1200,Sep-62,,1200.0,Reporting Match
+101,2634,"Williams Ohio Valley Midstream, LLC / Williams Co.",,,natural gas transload,,,"(along SR 2, 3 mi. W. of...)",,RLIX 1507,RLIX,1507,,SW1500,-72,2019.0,1500.0,Reporting Match
+102,2691,Port of Shelton,,,,Shelton,,                                   , [(360) 426-1151],LNWL 594,LNWL,594,594.0,,,,,Serial Match
+103,2730,SC Johnson's - Waxdale Plant,,,,Sturtevant,,8311 16th St. 53177,,RSSX 702,RSSX,702,29781.0,SW1200,Feb-65,,1200.0,Reporting Match
+104,2731,SC Johnson's - Waxdale Plant,,,,Sturtevant,,8311 16th St. 53177,,RSSX 5524,RSSX,5524,35217.0,SW1500,-69,,1500.0,Reporting Match
